@@ -31,8 +31,7 @@ var/
 # Data & Models (DO NOT commit large files!)
 data/**/*.jpg
 data/**/*.png
-models/*.pth
-models/*.pt
+models/
 results/*.csv
 results/figures/
 

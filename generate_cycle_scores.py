@@ -72,7 +72,6 @@ def main():
     parser.add_argument("--style_dir", type=str, default="data/style")
     parser.add_argument("--output_json", type=str, default="data/cycle_scores.json")
     parser.add_argument("--alphas", type=float, nargs="+", default=[0.3, 0.5, 0.7, 0.9, 1.0])
-    parser.add_argument("--batch_size", type=int, default=4)
     parser.add_argument("--num_workers", type=int, default=4)
     parser.add_argument("--max_samples", type=int, default=2000)
     args = parser.parse_args()
@@ -93,42 +92,43 @@ def main():
         indices = torch.randperm(len(dataset))[:args.max_samples].tolist()
         dataset = Subset(dataset, indices)
 
-    dataloader = DataLoader(dataset, batch_size=args.batch_size, num_workers=args.num_workers, pin_memory=True)
+    dataloader = DataLoader(dataset, batch_size=1, num_workers=args.num_workers, pin_memory=True)
 
     results = []
 
     for batch in tqdm(dataloader, desc="Generating cycle scores"):
-        contents, styles, alphas, content_paths, style_paths = batch
-        contents = contents.to(device)
-        styles = styles.to(device)
+        content, style, alpha, content_path, style_path = batch
+        content = content.to(device)
+        style = style.to(device)
 
-        for i in range(contents.size(0)):
-            # Forward AdaIN
-            alpha_val = alphas[i].item()
-            stylized, stats = model(contents, styles, alpha=alpha_val)
+        # Forward AdaIN
+        alpha_val = alpha.item()
+        orig = content
+        stylized, stats = model(orig, style, alpha=alpha_val)
 
-            # Inverse cycle
-            stylized_feat = model.encode(stylized)
-            rec_feat = model.inverse_adain(stylized_feat, stats)
-            rec = model.decode(rec_feat)
+        # Inverse cycle
+        stylized_feat = model.encode(stylized)
+        rec_feat = model.inverse_adain(stylized_feat, stats)
+        rec = model.decode(rec_feat)
 
-            # Compute DREAMSim
-            orig = contents[i:i+1]
-            dist = dreamsim_model(orig, rec).item()
-            reward = 1.0 - dist
+        # Compute DREAMSim
+        dist = dreamsim_model(orig, rec).item()
+        reward = 1.0 - dist
 
-            # Save stylized image (in [0,1] range)
-            stylized_path = os.path.join(stylized_dir, hash_file_name(content_paths[i], style_paths[i], alpha_val))
-            save_image(stylized.squeeze(0).cpu(), stylized_path)
+        # Save stylized image
+        content_path_val = content_path[0]
+        style_path_val = style_path[0]
+        stylized_path = os.path.join(stylized_dir, hash_file_name(content_path_val, style_path_val, alpha_val))
+        save_image(stylized.squeeze(0).cpu(), stylized_path)
 
-            results.append({
-                "content_path": content_paths[i],
-                "style_path": style_paths[i],
-                "alpha": alpha_val,
-                "stylized_path": stylized_path,
-                "reward": reward,
-                "dreamsim_distance": dist
-            })
+        results.append({
+            "content_path": content_path_val,
+            "style_path": style_path_val,
+            "alpha": alpha_val,
+            "stylized_path": stylized_path,
+            "reward": reward,
+            "dreamsim_distance": dist
+        })
 
     # Save
     with open(args.output_json, "w") as f:

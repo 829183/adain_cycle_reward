@@ -1,0 +1,602 @@
+[
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/a86704b6.jpg",
+    "reward": 0.40926724672317505,
+    "dreamsim_distance": 0.590732753276825
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/d926385d.jpg",
+    "reward": 0.4067951440811157,
+    "dreamsim_distance": 0.5932048559188843
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/422f5342.jpg",
+    "reward": 0.3865087032318115,
+    "dreamsim_distance": 0.6134912967681885
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/567273b6.jpg",
+    "reward": 0.3853927254676819,
+    "dreamsim_distance": 0.6146072745323181
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/c33acf27.jpg",
+    "reward": 0.38021546602249146,
+    "dreamsim_distance": 0.6197845339775085
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/6b2bc2c7.jpg",
+    "reward": 0.24750518798828125,
+    "dreamsim_distance": 0.7524948120117188
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/3e50a34c.jpg",
+    "reward": 0.24399840831756592,
+    "dreamsim_distance": 0.7560015916824341
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/cee1373b.jpg",
+    "reward": 0.25364017486572266,
+    "dreamsim_distance": 0.7463598251342773
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/70403a5a.jpg",
+    "reward": 0.2681460380554199,
+    "dreamsim_distance": 0.7318539619445801
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/edc24654.jpg",
+    "reward": 0.2676389217376709,
+    "dreamsim_distance": 0.7323610782623291
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/8c94651c.jpg",
+    "reward": 0.40783751010894775,
+    "dreamsim_distance": 0.5921624898910522
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/e0c0a23b.jpg",
+    "reward": 0.412400484085083,
+    "dreamsim_distance": 0.587599515914917
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e4b368dd.jpg",
+    "reward": 0.3946181535720825,
+    "dreamsim_distance": 0.6053818464279175
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/f6cfcbd8.jpg",
+    "reward": 0.37045228481292725,
+    "dreamsim_distance": 0.6295477151870728
+  },
+  {
+    "content_path": "./data/content/beach.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/3cc383ec.jpg",
+    "reward": 0.34625452756881714,
+    "dreamsim_distance": 0.6537454724311829
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/8c41b91f.jpg",
+    "reward": 0.5718873739242554,
+    "dreamsim_distance": 0.42811262607574463
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/b6f42987.jpg",
+    "reward": 0.554570734500885,
+    "dreamsim_distance": 0.445429265499115
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/f80ff504.jpg",
+    "reward": 0.528872549533844,
+    "dreamsim_distance": 0.471127450466156
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/daa773d5.jpg",
+    "reward": 0.501367449760437,
+    "dreamsim_distance": 0.498632550239563
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/8f961b9f.jpg",
+    "reward": 0.49464893341064453,
+    "dreamsim_distance": 0.5053510665893555
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/2b48b53a.jpg",
+    "reward": 0.47472167015075684,
+    "dreamsim_distance": 0.5252783298492432
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/a3d9b734.jpg",
+    "reward": 0.4868811368942261,
+    "dreamsim_distance": 0.5131188631057739
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/60816014.jpg",
+    "reward": 0.5045580267906189,
+    "dreamsim_distance": 0.4954419732093811
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/04d907e8.jpg",
+    "reward": 0.5051699280738831,
+    "dreamsim_distance": 0.49483007192611694
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/239d61c6.jpg",
+    "reward": 0.4867696762084961,
+    "dreamsim_distance": 0.5132303237915039
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/5e45320e.jpg",
+    "reward": 0.5548195838928223,
+    "dreamsim_distance": 0.44518041610717773
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/faf3981d.jpg",
+    "reward": 0.5561894178390503,
+    "dreamsim_distance": 0.4438105821609497
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/7e1f3b67.jpg",
+    "reward": 0.5511754155158997,
+    "dreamsim_distance": 0.44882458448410034
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/7a5aee4d.jpg",
+    "reward": 0.5441144704818726,
+    "dreamsim_distance": 0.45588552951812744
+  },
+  {
+    "content_path": "./data/content/cat_on_chair.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/78df1e92.jpg",
+    "reward": 0.5310000777244568,
+    "dreamsim_distance": 0.4689999222755432
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/424546f4.jpg",
+    "reward": 0.5434225797653198,
+    "dreamsim_distance": 0.4565774202346802
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/a5acc7cd.jpg",
+    "reward": 0.5453212261199951,
+    "dreamsim_distance": 0.4546787738800049
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e7f2e15e.jpg",
+    "reward": 0.5133287906646729,
+    "dreamsim_distance": 0.48667120933532715
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/89c47e47.jpg",
+    "reward": 0.47313839197158813,
+    "dreamsim_distance": 0.5268616080284119
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/2c07c031.jpg",
+    "reward": 0.4450021982192993,
+    "dreamsim_distance": 0.5549978017807007
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/ac8ca6cd.jpg",
+    "reward": 0.23916220664978027,
+    "dreamsim_distance": 0.7608377933502197
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/4058aded.jpg",
+    "reward": 0.24621635675430298,
+    "dreamsim_distance": 0.753783643245697
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/a8f8f6fc.jpg",
+    "reward": 0.23728835582733154,
+    "dreamsim_distance": 0.7627116441726685
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/da633a32.jpg",
+    "reward": 0.24036377668380737,
+    "dreamsim_distance": 0.7596362233161926
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/de2e5907.jpg",
+    "reward": 0.2271009087562561,
+    "dreamsim_distance": 0.7728990912437439
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/2e6fc52d.jpg",
+    "reward": 0.5303555130958557,
+    "dreamsim_distance": 0.4696444869041443
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/58df5a83.jpg",
+    "reward": 0.5147477388381958,
+    "dreamsim_distance": 0.4852522611618042
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e6987894.jpg",
+    "reward": 0.49016672372817993,
+    "dreamsim_distance": 0.5098332762718201
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/df28dc6e.jpg",
+    "reward": 0.43491554260253906,
+    "dreamsim_distance": 0.5650844573974609
+  },
+  {
+    "content_path": "./data/content/clock_towel.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/f8c688ed.jpg",
+    "reward": 0.3989921808242798,
+    "dreamsim_distance": 0.6010078191757202
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/632a804d.jpg",
+    "reward": 0.5859236717224121,
+    "dreamsim_distance": 0.4140763282775879
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/cac38e80.jpg",
+    "reward": 0.6026611328125,
+    "dreamsim_distance": 0.3973388671875
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/0069280d.jpg",
+    "reward": 0.5742780566215515,
+    "dreamsim_distance": 0.4257219433784485
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/84fb9c38.jpg",
+    "reward": 0.541419267654419,
+    "dreamsim_distance": 0.45858073234558105
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/22677fd3.jpg",
+    "reward": 0.5296797752380371,
+    "dreamsim_distance": 0.4703202247619629
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/93fd180f.jpg",
+    "reward": 0.398027241230011,
+    "dreamsim_distance": 0.601972758769989
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/8b282b58.jpg",
+    "reward": 0.4512941837310791,
+    "dreamsim_distance": 0.5487058162689209
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/321571d3.jpg",
+    "reward": 0.47811436653137207,
+    "dreamsim_distance": 0.5218856334686279
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/4f1adf66.jpg",
+    "reward": 0.5170391798019409,
+    "dreamsim_distance": 0.4829608201980591
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/823bb21d.jpg",
+    "reward": 0.5068746209144592,
+    "dreamsim_distance": 0.49312537908554077
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/857eb351.jpg",
+    "reward": 0.5757195353507996,
+    "dreamsim_distance": 0.42428046464920044
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/c3e37652.jpg",
+    "reward": 0.572969913482666,
+    "dreamsim_distance": 0.427030086517334
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/0b88ed37.jpg",
+    "reward": 0.5683339834213257,
+    "dreamsim_distance": 0.4316660165786743
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/c26bacb0.jpg",
+    "reward": 0.5539681911468506,
+    "dreamsim_distance": 0.4460318088531494
+  },
+  {
+    "content_path": "./data/content/fruit_on_table.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/b6ea4e13.jpg",
+    "reward": 0.5402093529701233,
+    "dreamsim_distance": 0.4597906470298767
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/2e140c07.jpg",
+    "reward": 0.3635413646697998,
+    "dreamsim_distance": 0.6364586353302002
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/433d5b25.jpg",
+    "reward": 0.3525282144546509,
+    "dreamsim_distance": 0.6474717855453491
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/ed0c2ac6.jpg",
+    "reward": 0.3332609534263611,
+    "dreamsim_distance": 0.6667390465736389
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/715d8390.jpg",
+    "reward": 0.2909799814224243,
+    "dreamsim_distance": 0.7090200185775757
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/ink_painting.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/1de28045.jpg",
+    "reward": 0.28381627798080444,
+    "dreamsim_distance": 0.7161837220191956
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/5a41cdab.jpg",
+    "reward": 0.18033170700073242,
+    "dreamsim_distance": 0.8196682929992676
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/fd5c8bb4.jpg",
+    "reward": 0.19876426458358765,
+    "dreamsim_distance": 0.8012357354164124
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/58aa1b10.jpg",
+    "reward": 0.24728065729141235,
+    "dreamsim_distance": 0.7527193427085876
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/37f430b0.jpg",
+    "reward": 0.2559642791748047,
+    "dreamsim_distance": 0.7440357208251953
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/post_impressionism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/5956eb3d.jpg",
+    "reward": 0.24909740686416626,
+    "dreamsim_distance": 0.7509025931358337
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/08df4c1f.jpg",
+    "reward": 0.4209755063056946,
+    "dreamsim_distance": 0.5790244936943054
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/ec9c9eba.jpg",
+    "reward": 0.417192280292511,
+    "dreamsim_distance": 0.582807719707489
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/3b784214.jpg",
+    "reward": 0.4130699634552002,
+    "dreamsim_distance": 0.5869300365447998
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/e132873a.jpg",
+    "reward": 0.39114290475845337,
+    "dreamsim_distance": 0.6088570952415466
+  },
+  {
+    "content_path": "./data/content/street.jpg",
+    "style_path": "./data/style/surrealism.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/f0453c08.jpg",
+    "reward": 0.36443185806274414,
+    "dreamsim_distance": 0.6355681419372559
+  }
+]

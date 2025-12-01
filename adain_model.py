@@ -5,8 +5,6 @@
 
 import torch
 import torch.nn as nn
-from torchvision.models import vgg19
-from torchvision import transforms
 
 decoder = nn.Sequential(
     nn.ReflectionPad2d((1, 1, 1, 1)),
