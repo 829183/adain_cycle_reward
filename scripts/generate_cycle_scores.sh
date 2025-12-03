@@ -1,22 +1,35 @@
 #!/bin/bash
 
+# Exit immediately if a command exits with a non-zero status.
 set -e
 
+# --- Configuration (Keep the original path for consistency with the user's setup) ---
 SCRIPT_DIR="/home/luo/Downloads/CV/final_project/adain_cycle_reward"
-cd "$SCRIPT_DIR"
-echo "当前工作目录: $(pwd)"
 
+# Change to the script's directory
+cd "$SCRIPT_DIR"
+echo "Current working directory: $(pwd)"
+
+# Conda environment name to activate
 CONDA_ENV_NAME="acrwd"
+# Path to the content images
+CONTENT_DIR="./data/content"
+# Path to the style images
+STYLE_DIR="./data/style"
+# Path where the generated scores JSON file will be saved
+OUTPUT_JSON="./data/cycle_scores.json"
+# Directory for saving stylized images (although not used directly in the Python command, keeping it as a note)
+STYLIZED_DIR="./data/stylized"
+# ---------------------
+
+# Activate the Conda environment
 eval "$(conda shell.bash hook)"
 conda activate "$CONDA_ENV_NAME"
-echo "已激活 Conda 环境: $CONDA_ENV_NAME"
+echo "Activated Conda environment: $CONDA_ENV_NAME"
 
-CONTENT_DIR="./data/content"
-STYLE_DIR="./data/style"
-OUTPUT_JSON="./data/cycle_scores.json"
-STYLIZED_DIR="./data/stylized"
 
-echo "开始生成 stylized 图像和 reward..."
+# Start generating stylized images and reward scores
+echo "Starting generation of stylized images and cycle scores/rewards..."
 python generate_cycle_scores.py \
   --content_dir "$CONTENT_DIR" \
   --style_dir "$STYLE_DIR" \
@@ -24,4 +37,5 @@ python generate_cycle_scores.py \
   --alphas 0.3 0.5 0.7 0.9 1.0 \
   --max_samples 2000
 
-echo "生成完成！结果保存在: $OUTPUT_JSON"
+# Generation complete message
+echo "Generation finished! Results saved to: $OUTPUT_JSON"
