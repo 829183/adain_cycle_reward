@@ -2,7 +2,7 @@
 
 set -e
 
-SCRIPT_DIR="/home/luo/Downloads/CV/final_project/adain_cycle_reward"
+SCRIPT_DIR="/home/bjia-25/workspace/papers/gen/adain_cycle_reward"
 cd "$SCRIPT_DIR"
 echo "Current Workplace: $(pwd)"
 
@@ -16,7 +16,6 @@ if [ ! -f "$DATA_JSON" ]; then
     echo "Error: $DATA_JSON not exists please run ./generate_cycle_scores.sh first." 
     exit 1
 fi
-
 
 MODEL_SAVE_PATH="./models/reward_model_resnet18.pth"
 echo "Reward Model (ResNet-18)..."
