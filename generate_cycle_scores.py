@@ -13,9 +13,10 @@ import hashlib
 from adain_model import AdaINModel
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
-vgg_path = "models/vgg_normalised.pth"
-decoder_path = "models/decoder.pth"
-stylized_dir  = "data/stylized"
+# Assuming base_path is defined and correct
+base_path = "/home/bjia-25/workspace/papers/gen/adain_cycle_reward" + "/"
+vgg_path = base_path + "models/vgg_normalised.pth"
+decoder_path = base_path + "models/decoder.pth"
 
 class PairDataset(Dataset):
     def __init__(self, content_paths, style_paths, alphas, transform=None):
@@ -54,6 +55,10 @@ class PairDataset(Dataset):
 
 def load_image_list(root, exts=(".jpg", ".png")):
     paths = []
+    # If root is a single file path, return it as a list
+    if os.path.isfile(root):
+        return [root]
+        
     for fname in sorted(os.listdir(root)):
         if fname.lower().endswith(exts):
             paths.append(os.path.join(root, fname))
@@ -69,7 +74,11 @@ def hash_file_name(content_path, style_path, alpha_val):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--content_dir", type=str, default="data/content")
-    parser.add_argument("--style_dir", type=str, default="data/style")
+    parser.add_argument("--style_dir", type=str, default="data/style", 
+                        help="Directory containing style images if --style_file is not used.")
+    parser.add_argument("--style_file", type=str, default=None,
+                        help="Specific style image file path to use. Overrides --style_dir if set.")
+    parser.add_argument("--stylized_dir", type=str, default="data/stylized")
     parser.add_argument("--output_json", type=str, default="data/cycle_scores.json")
     parser.add_argument("--alphas", type=float, nargs="+", default=[0.3, 0.5, 0.7, 0.9, 1.0])
     parser.add_argument("--num_workers", type=int, default=4)
@@ -82,7 +91,25 @@ def main():
 
     # Load data
     content_paths = load_image_list(args.content_dir)[:50]
-    style_paths = load_image_list(args.style_dir)[:10]
+    
+    # --- MODIFICATION START ---
+    if args.style_file:
+        # If a specific file is given, use only that file.
+        if not os.path.isfile(args.style_file):
+             raise FileNotFoundError(f"Specified style file not found: {args.style_file}")
+        style_paths = [args.style_file]
+        print(f"Using only specified style file: {args.style_file}")
+    else:
+        # Otherwise, load all files from the directory.
+        style_paths = load_image_list(args.style_dir)[:10]
+        print(f"Using {len(style_paths)} style images from: {args.style_dir}")
+
+    if not content_paths or not style_paths:
+        print("Error: Content or style image list is empty. Aborting.")
+        return
+    # --- MODIFICATION END ---
+    
+    stylized_dir = args.stylized_dir
     dataset = PairDataset(content_paths, style_paths, args.alphas)
     
     if len(dataset) > args.max_samples:

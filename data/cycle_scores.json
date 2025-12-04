@@ -1,602 +1,4402 @@
 [
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/a86704b6.jpg",
-    "reward": 0.40926724672317505,
-    "dreamsim_distance": 0.590732753276825
+    "stylized_path": "data/stylized/b4d29c7b.jpg",
+    "reward": 0.4761946201324463,
+    "dreamsim_distance": 0.5238053798675537
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/d926385d.jpg",
-    "reward": 0.4067951440811157,
-    "dreamsim_distance": 0.5932048559188843
+    "stylized_path": "data/stylized/cbe2b952.jpg",
+    "reward": 0.549945056438446,
+    "dreamsim_distance": 0.45005494356155396
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/422f5342.jpg",
-    "reward": 0.3865087032318115,
-    "dreamsim_distance": 0.6134912967681885
+    "stylized_path": "data/stylized/26c68105.jpg",
+    "reward": 0.599461019039154,
+    "dreamsim_distance": 0.40053898096084595
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/567273b6.jpg",
-    "reward": 0.3853927254676819,
-    "dreamsim_distance": 0.6146072745323181
+    "stylized_path": "data/stylized/fa5ad862.jpg",
+    "reward": 0.6102994680404663,
+    "dreamsim_distance": 0.3897005319595337
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/c33acf27.jpg",
-    "reward": 0.38021546602249146,
-    "dreamsim_distance": 0.6197845339775085
+    "stylized_path": "data/stylized/0057a74d.jpg",
+    "reward": 0.6117132902145386,
+    "dreamsim_distance": 0.3882867097854614
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/6b2bc2c7.jpg",
-    "reward": 0.24750518798828125,
-    "dreamsim_distance": 0.7524948120117188
+    "stylized_path": "data/stylized/f41e0474.jpg",
+    "reward": 0.4775628447532654,
+    "dreamsim_distance": 0.5224371552467346
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/3e50a34c.jpg",
-    "reward": 0.24399840831756592,
-    "dreamsim_distance": 0.7560015916824341
+    "stylized_path": "data/stylized/d298b8fd.jpg",
+    "reward": 0.48688727617263794,
+    "dreamsim_distance": 0.5131127238273621
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/cee1373b.jpg",
-    "reward": 0.25364017486572266,
-    "dreamsim_distance": 0.7463598251342773
+    "stylized_path": "data/stylized/5aa06725.jpg",
+    "reward": 0.503932774066925,
+    "dreamsim_distance": 0.49606722593307495
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/70403a5a.jpg",
-    "reward": 0.2681460380554199,
-    "dreamsim_distance": 0.7318539619445801
+    "stylized_path": "data/stylized/89cc5c3a.jpg",
+    "reward": 0.5220537185668945,
+    "dreamsim_distance": 0.47794628143310547
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/edc24654.jpg",
-    "reward": 0.2676389217376709,
-    "dreamsim_distance": 0.7323610782623291
+    "stylized_path": "data/stylized/34c6891b.jpg",
+    "reward": 0.5401121377944946,
+    "dreamsim_distance": 0.45988786220550537
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/8c94651c.jpg",
-    "reward": 0.40783751010894775,
-    "dreamsim_distance": 0.5921624898910522
+    "stylized_path": "data/stylized/42ab48af.jpg",
+    "reward": 0.39671844244003296,
+    "dreamsim_distance": 0.603281557559967
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/e0c0a23b.jpg",
-    "reward": 0.412400484085083,
-    "dreamsim_distance": 0.587599515914917
+    "stylized_path": "data/stylized/b57446d9.jpg",
+    "reward": 0.4157322645187378,
+    "dreamsim_distance": 0.5842677354812622
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/e4b368dd.jpg",
-    "reward": 0.3946181535720825,
-    "dreamsim_distance": 0.6053818464279175
+    "stylized_path": "data/stylized/0a0988f9.jpg",
+    "reward": 0.4079321622848511,
+    "dreamsim_distance": 0.5920678377151489
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/f6cfcbd8.jpg",
-    "reward": 0.37045228481292725,
-    "dreamsim_distance": 0.6295477151870728
+    "stylized_path": "data/stylized/70f1d081.jpg",
+    "reward": 0.42283135652542114,
+    "dreamsim_distance": 0.5771686434745789
   },
   {
-    "content_path": "./data/content/beach.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/3cc383ec.jpg",
-    "reward": 0.34625452756881714,
-    "dreamsim_distance": 0.6537454724311829
+    "stylized_path": "data/stylized/30605e92.jpg",
+    "reward": 0.4224609136581421,
+    "dreamsim_distance": 0.5775390863418579
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/8c41b91f.jpg",
-    "reward": 0.5718873739242554,
-    "dreamsim_distance": 0.42811262607574463
+    "stylized_path": "data/stylized/8496cad0.jpg",
+    "reward": 0.42204415798187256,
+    "dreamsim_distance": 0.5779558420181274
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/b6f42987.jpg",
-    "reward": 0.554570734500885,
-    "dreamsim_distance": 0.445429265499115
+    "stylized_path": "data/stylized/cb3f1454.jpg",
+    "reward": 0.45205503702163696,
+    "dreamsim_distance": 0.547944962978363
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/f80ff504.jpg",
-    "reward": 0.528872549533844,
-    "dreamsim_distance": 0.471127450466156
+    "stylized_path": "data/stylized/4a06c798.jpg",
+    "reward": 0.4910130500793457,
+    "dreamsim_distance": 0.5089869499206543
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/daa773d5.jpg",
-    "reward": 0.501367449760437,
-    "dreamsim_distance": 0.498632550239563
+    "stylized_path": "data/stylized/ab46939f.jpg",
+    "reward": 0.531365156173706,
+    "dreamsim_distance": 0.46863484382629395
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/8f961b9f.jpg",
-    "reward": 0.49464893341064453,
-    "dreamsim_distance": 0.5053510665893555
+    "stylized_path": "data/stylized/44b48320.jpg",
+    "reward": 0.5457554459571838,
+    "dreamsim_distance": 0.45424455404281616
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/2b48b53a.jpg",
-    "reward": 0.47472167015075684,
-    "dreamsim_distance": 0.5252783298492432
+    "stylized_path": "data/stylized/b38b06bf.jpg",
+    "reward": 0.43789809942245483,
+    "dreamsim_distance": 0.5621019005775452
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/a3d9b734.jpg",
-    "reward": 0.4868811368942261,
-    "dreamsim_distance": 0.5131188631057739
+    "stylized_path": "data/stylized/92656c72.jpg",
+    "reward": 0.4239674210548401,
+    "dreamsim_distance": 0.5760325789451599
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/60816014.jpg",
-    "reward": 0.5045580267906189,
-    "dreamsim_distance": 0.4954419732093811
+    "stylized_path": "data/stylized/ae20e098.jpg",
+    "reward": 0.4133334755897522,
+    "dreamsim_distance": 0.5866665244102478
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/04d907e8.jpg",
-    "reward": 0.5051699280738831,
-    "dreamsim_distance": 0.49483007192611694
+    "stylized_path": "data/stylized/b0743f56.jpg",
+    "reward": 0.41167622804641724,
+    "dreamsim_distance": 0.5883237719535828
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/239d61c6.jpg",
-    "reward": 0.4867696762084961,
-    "dreamsim_distance": 0.5132303237915039
+    "stylized_path": "data/stylized/c9f84f66.jpg",
+    "reward": 0.40684378147125244,
+    "dreamsim_distance": 0.5931562185287476
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/5e45320e.jpg",
-    "reward": 0.5548195838928223,
-    "dreamsim_distance": 0.44518041610717773
+    "stylized_path": "data/stylized/24a6e5c4.jpg",
+    "reward": 0.5721089839935303,
+    "dreamsim_distance": 0.4278910160064697
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/faf3981d.jpg",
-    "reward": 0.5561894178390503,
-    "dreamsim_distance": 0.4438105821609497
+    "stylized_path": "data/stylized/289cec3a.jpg",
+    "reward": 0.5693997144699097,
+    "dreamsim_distance": 0.43060028553009033
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/7e1f3b67.jpg",
-    "reward": 0.5511754155158997,
-    "dreamsim_distance": 0.44882458448410034
+    "stylized_path": "data/stylized/df8dddd2.jpg",
+    "reward": 0.5755331516265869,
+    "dreamsim_distance": 0.4244668483734131
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/7a5aee4d.jpg",
-    "reward": 0.5441144704818726,
-    "dreamsim_distance": 0.45588552951812744
+    "stylized_path": "data/stylized/de09023a.jpg",
+    "reward": 0.597088634967804,
+    "dreamsim_distance": 0.40291136503219604
   },
   {
-    "content_path": "./data/content/cat_on_chair.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/78df1e92.jpg",
-    "reward": 0.5310000777244568,
-    "dreamsim_distance": 0.4689999222755432
+    "stylized_path": "data/stylized/272cb196.jpg",
+    "reward": 0.6074941754341125,
+    "dreamsim_distance": 0.39250582456588745
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/goeritz.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/424546f4.jpg",
-    "reward": 0.5434225797653198,
-    "dreamsim_distance": 0.4565774202346802
+    "stylized_path": "data/stylized/2199c78d.jpg",
+    "reward": 0.40758490562438965,
+    "dreamsim_distance": 0.5924150943756104
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/goeritz.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/a5acc7cd.jpg",
-    "reward": 0.5453212261199951,
-    "dreamsim_distance": 0.4546787738800049
+    "stylized_path": "data/stylized/f85cb2e9.jpg",
+    "reward": 0.4155898094177246,
+    "dreamsim_distance": 0.5844101905822754
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/goeritz.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/e7f2e15e.jpg",
-    "reward": 0.5133287906646729,
-    "dreamsim_distance": 0.48667120933532715
+    "stylized_path": "data/stylized/96c0d2ae.jpg",
+    "reward": 0.4157446026802063,
+    "dreamsim_distance": 0.5842553973197937
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/goeritz.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/89c47e47.jpg",
-    "reward": 0.47313839197158813,
-    "dreamsim_distance": 0.5268616080284119
+    "stylized_path": "data/stylized/1172b238.jpg",
+    "reward": 0.41625356674194336,
+    "dreamsim_distance": 0.5837464332580566
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/goeritz.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/2c07c031.jpg",
-    "reward": 0.4450021982192993,
-    "dreamsim_distance": 0.5549978017807007
+    "stylized_path": "data/stylized/e22b77ef.jpg",
+    "reward": 0.4235210418701172,
+    "dreamsim_distance": 0.5764789581298828
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/ac8ca6cd.jpg",
-    "reward": 0.23916220664978027,
-    "dreamsim_distance": 0.7608377933502197
+    "stylized_path": "data/stylized/d35f98f5.jpg",
+    "reward": 0.6110782623291016,
+    "dreamsim_distance": 0.38892173767089844
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/4058aded.jpg",
-    "reward": 0.24621635675430298,
-    "dreamsim_distance": 0.753783643245697
+    "stylized_path": "data/stylized/ffc35846.jpg",
+    "reward": 0.6194378137588501,
+    "dreamsim_distance": 0.3805621862411499
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/a8f8f6fc.jpg",
-    "reward": 0.23728835582733154,
-    "dreamsim_distance": 0.7627116441726685
+    "stylized_path": "data/stylized/824f176c.jpg",
+    "reward": 0.5979974865913391,
+    "dreamsim_distance": 0.4020025134086609
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/da633a32.jpg",
-    "reward": 0.24036377668380737,
-    "dreamsim_distance": 0.7596362233161926
+    "stylized_path": "data/stylized/0689d185.jpg",
+    "reward": 0.6407111883163452,
+    "dreamsim_distance": 0.3592888116836548
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/de2e5907.jpg",
-    "reward": 0.2271009087562561,
-    "dreamsim_distance": 0.7728990912437439
+    "stylized_path": "data/stylized/276d8574.jpg",
+    "reward": 0.6295219659805298,
+    "dreamsim_distance": 0.3704780340194702
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/la_muse.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/2e6fc52d.jpg",
-    "reward": 0.5303555130958557,
-    "dreamsim_distance": 0.4696444869041443
+    "stylized_path": "data/stylized/37aeacb7.jpg",
+    "reward": 0.47290849685668945,
+    "dreamsim_distance": 0.5270915031433105
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/la_muse.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/58df5a83.jpg",
-    "reward": 0.5147477388381958,
-    "dreamsim_distance": 0.4852522611618042
+    "stylized_path": "data/stylized/a97f1d72.jpg",
+    "reward": 0.45181214809417725,
+    "dreamsim_distance": 0.5481878519058228
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/la_muse.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/e6987894.jpg",
-    "reward": 0.49016672372817993,
-    "dreamsim_distance": 0.5098332762718201
+    "stylized_path": "data/stylized/52c80650.jpg",
+    "reward": 0.462597131729126,
+    "dreamsim_distance": 0.537402868270874
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/la_muse.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/df28dc6e.jpg",
-    "reward": 0.43491554260253906,
-    "dreamsim_distance": 0.5650844573974609
+    "stylized_path": "data/stylized/84014622.jpg",
+    "reward": 0.49326562881469727,
+    "dreamsim_distance": 0.5067343711853027
   },
   {
-    "content_path": "./data/content/clock_towel.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/la_muse.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/f8c688ed.jpg",
-    "reward": 0.3989921808242798,
-    "dreamsim_distance": 0.6010078191757202
+    "stylized_path": "data/stylized/ef8358c7.jpg",
+    "reward": 0.5061555504798889,
+    "dreamsim_distance": 0.4938444495201111
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/mondrian.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/632a804d.jpg",
-    "reward": 0.5859236717224121,
-    "dreamsim_distance": 0.4140763282775879
+    "stylized_path": "data/stylized/f6a0ad22.jpg",
+    "reward": 0.5627099275588989,
+    "dreamsim_distance": 0.4372900724411011
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/mondrian.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/cac38e80.jpg",
-    "reward": 0.6026611328125,
-    "dreamsim_distance": 0.3973388671875
+    "stylized_path": "data/stylized/844bbf7f.jpg",
+    "reward": 0.5401617288589478,
+    "dreamsim_distance": 0.45983827114105225
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/mondrian.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/0069280d.jpg",
-    "reward": 0.5742780566215515,
-    "dreamsim_distance": 0.4257219433784485
+    "stylized_path": "data/stylized/f1387c07.jpg",
+    "reward": 0.5041542649269104,
+    "dreamsim_distance": 0.4958457350730896
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/mondrian.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/84fb9c38.jpg",
-    "reward": 0.541419267654419,
-    "dreamsim_distance": 0.45858073234558105
+    "stylized_path": "data/stylized/e13054d5.jpg",
+    "reward": 0.48978912830352783,
+    "dreamsim_distance": 0.5102108716964722
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/avril.jpg",
+    "style_path": "./data/style/mondrian.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/22677fd3.jpg",
-    "reward": 0.5296797752380371,
-    "dreamsim_distance": 0.4703202247619629
+    "stylized_path": "data/stylized/988370b5.jpg",
+    "reward": 0.48454731702804565,
+    "dreamsim_distance": 0.5154526829719543
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/93fd180f.jpg",
-    "reward": 0.398027241230011,
-    "dreamsim_distance": 0.601972758769989
+    "stylized_path": "data/stylized/970c5300.jpg",
+    "reward": 0.5126250982284546,
+    "dreamsim_distance": 0.4873749017715454
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/8b282b58.jpg",
-    "reward": 0.4512941837310791,
-    "dreamsim_distance": 0.5487058162689209
+    "stylized_path": "data/stylized/0dfac3cc.jpg",
+    "reward": 0.5246531367301941,
+    "dreamsim_distance": 0.4753468632698059
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/321571d3.jpg",
-    "reward": 0.47811436653137207,
-    "dreamsim_distance": 0.5218856334686279
+    "stylized_path": "data/stylized/a9f589d1.jpg",
+    "reward": 0.529889702796936,
+    "dreamsim_distance": 0.47011029720306396
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/4f1adf66.jpg",
-    "reward": 0.5170391798019409,
-    "dreamsim_distance": 0.4829608201980591
+    "stylized_path": "data/stylized/3cb0f314.jpg",
+    "reward": 0.5605664253234863,
+    "dreamsim_distance": 0.43943357467651367
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/823bb21d.jpg",
-    "reward": 0.5068746209144592,
-    "dreamsim_distance": 0.49312537908554077
+    "stylized_path": "data/stylized/340d9f26.jpg",
+    "reward": 0.5805600881576538,
+    "dreamsim_distance": 0.4194399118423462
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/857eb351.jpg",
-    "reward": 0.5757195353507996,
-    "dreamsim_distance": 0.42428046464920044
+    "stylized_path": "data/stylized/51d80a10.jpg",
+    "reward": 0.4661785364151001,
+    "dreamsim_distance": 0.5338214635848999
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/c3e37652.jpg",
-    "reward": 0.572969913482666,
-    "dreamsim_distance": 0.427030086517334
+    "stylized_path": "data/stylized/750fde5e.jpg",
+    "reward": 0.4710214138031006,
+    "dreamsim_distance": 0.5289785861968994
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/0b88ed37.jpg",
-    "reward": 0.5683339834213257,
-    "dreamsim_distance": 0.4316660165786743
+    "stylized_path": "data/stylized/58adad0f.jpg",
+    "reward": 0.48063409328460693,
+    "dreamsim_distance": 0.5193659067153931
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/c26bacb0.jpg",
-    "reward": 0.5539681911468506,
-    "dreamsim_distance": 0.4460318088531494
+    "stylized_path": "data/stylized/504b0825.jpg",
+    "reward": 0.5179359912872314,
+    "dreamsim_distance": 0.48206400871276855
   },
   {
-    "content_path": "./data/content/fruit_on_table.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/asheville.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/b6ea4e13.jpg",
-    "reward": 0.5402093529701233,
-    "dreamsim_distance": 0.4597906470298767
+    "stylized_path": "data/stylized/c5ce6827.jpg",
+    "reward": 0.5295265913009644,
+    "dreamsim_distance": 0.47047340869903564
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/2e140c07.jpg",
-    "reward": 0.3635413646697998,
-    "dreamsim_distance": 0.6364586353302002
+    "stylized_path": "data/stylized/f25fa6e6.jpg",
+    "reward": 0.37749266624450684,
+    "dreamsim_distance": 0.6225073337554932
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/433d5b25.jpg",
-    "reward": 0.3525282144546509,
-    "dreamsim_distance": 0.6474717855453491
+    "stylized_path": "data/stylized/0be8aa99.jpg",
+    "reward": 0.36421269178390503,
+    "dreamsim_distance": 0.635787308216095
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/ed0c2ac6.jpg",
-    "reward": 0.3332609534263611,
-    "dreamsim_distance": 0.6667390465736389
+    "stylized_path": "data/stylized/268f8f56.jpg",
+    "reward": 0.3614922761917114,
+    "dreamsim_distance": 0.6385077238082886
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/715d8390.jpg",
-    "reward": 0.2909799814224243,
-    "dreamsim_distance": 0.7090200185775757
+    "stylized_path": "data/stylized/b67b6d21.jpg",
+    "reward": 0.3554120659828186,
+    "dreamsim_distance": 0.6445879340171814
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/ink_painting.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/1de28045.jpg",
-    "reward": 0.28381627798080444,
-    "dreamsim_distance": 0.7161837220191956
+    "stylized_path": "data/stylized/4dfc12ed.jpg",
+    "reward": 0.3546410799026489,
+    "dreamsim_distance": 0.6453589200973511
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/5a41cdab.jpg",
-    "reward": 0.18033170700073242,
-    "dreamsim_distance": 0.8196682929992676
+    "stylized_path": "data/stylized/b7a06615.jpg",
+    "reward": 0.4734236001968384,
+    "dreamsim_distance": 0.5265763998031616
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/fd5c8bb4.jpg",
-    "reward": 0.19876426458358765,
-    "dreamsim_distance": 0.8012357354164124
+    "stylized_path": "data/stylized/9b512030.jpg",
+    "reward": 0.4783251881599426,
+    "dreamsim_distance": 0.5216748118400574
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/58aa1b10.jpg",
-    "reward": 0.24728065729141235,
-    "dreamsim_distance": 0.7527193427085876
+    "stylized_path": "data/stylized/c784ce8e.jpg",
+    "reward": 0.4812452793121338,
+    "dreamsim_distance": 0.5187547206878662
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/37f430b0.jpg",
-    "reward": 0.2559642791748047,
-    "dreamsim_distance": 0.7440357208251953
+    "stylized_path": "data/stylized/12c81262.jpg",
+    "reward": 0.4797135591506958,
+    "dreamsim_distance": 0.5202864408493042
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/post_impressionism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/5956eb3d.jpg",
-    "reward": 0.24909740686416626,
-    "dreamsim_distance": 0.7509025931358337
+    "stylized_path": "data/stylized/7c37239c.jpg",
+    "reward": 0.48236382007598877,
+    "dreamsim_distance": 0.5176361799240112
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 0.3,
-    "stylized_path": "data/stylized/08df4c1f.jpg",
-    "reward": 0.4209755063056946,
-    "dreamsim_distance": 0.5790244936943054
+    "stylized_path": "data/stylized/8a038881.jpg",
+    "reward": 0.367276668548584,
+    "dreamsim_distance": 0.632723331451416
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 0.5,
-    "stylized_path": "data/stylized/ec9c9eba.jpg",
-    "reward": 0.417192280292511,
-    "dreamsim_distance": 0.582807719707489
+    "stylized_path": "data/stylized/c6268869.jpg",
+    "reward": 0.37029266357421875,
+    "dreamsim_distance": 0.6297073364257812
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 0.7,
-    "stylized_path": "data/stylized/3b784214.jpg",
-    "reward": 0.4130699634552002,
-    "dreamsim_distance": 0.5869300365447998
+    "stylized_path": "data/stylized/1c9dcacb.jpg",
+    "reward": 0.35675644874572754,
+    "dreamsim_distance": 0.6432435512542725
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 0.9,
-    "stylized_path": "data/stylized/e132873a.jpg",
-    "reward": 0.39114290475845337,
-    "dreamsim_distance": 0.6088570952415466
+    "stylized_path": "data/stylized/0b3502e8.jpg",
+    "reward": 0.32462358474731445,
+    "dreamsim_distance": 0.6753764152526855
   },
   {
-    "content_path": "./data/content/street.jpg",
-    "style_path": "./data/style/surrealism.jpg",
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
     "alpha": 1.0,
-    "stylized_path": "data/stylized/f0453c08.jpg",
-    "reward": 0.36443185806274414,
-    "dreamsim_distance": 0.6355681419372559
+    "stylized_path": "data/stylized/ded0bf86.jpg",
+    "reward": 0.3203659653663635,
+    "dreamsim_distance": 0.6796340346336365
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/8e211c2c.jpg",
+    "reward": 0.5028904676437378,
+    "dreamsim_distance": 0.4971095323562622
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/f4bacb10.jpg",
+    "reward": 0.5067293047904968,
+    "dreamsim_distance": 0.4932706952095032
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/01ff6289.jpg",
+    "reward": 0.48743122816085815,
+    "dreamsim_distance": 0.5125687718391418
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/2055696a.jpg",
+    "reward": 0.45861440896987915,
+    "dreamsim_distance": 0.5413855910301208
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/a1dc6d84.jpg",
+    "reward": 0.4510200619697571,
+    "dreamsim_distance": 0.5489799380302429
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/4d44d1c3.jpg",
+    "reward": 0.3129805326461792,
+    "dreamsim_distance": 0.6870194673538208
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/cf5f2ce4.jpg",
+    "reward": 0.30378079414367676,
+    "dreamsim_distance": 0.6962192058563232
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/ee502b02.jpg",
+    "reward": 0.2763195037841797,
+    "dreamsim_distance": 0.7236804962158203
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/b83a6824.jpg",
+    "reward": 0.2914764881134033,
+    "dreamsim_distance": 0.7085235118865967
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/978ca46d.jpg",
+    "reward": 0.2879422903060913,
+    "dreamsim_distance": 0.7120577096939087
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/049caddc.jpg",
+    "reward": 0.527641773223877,
+    "dreamsim_distance": 0.47235822677612305
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/2d5b731c.jpg",
+    "reward": 0.5549899339675903,
+    "dreamsim_distance": 0.44501006603240967
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/2f90df2e.jpg",
+    "reward": 0.5179212093353271,
+    "dreamsim_distance": 0.48207879066467285
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/2c3acb92.jpg",
+    "reward": 0.48414885997772217,
+    "dreamsim_distance": 0.5158511400222778
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/e32318b1.jpg",
+    "reward": 0.465171754360199,
+    "dreamsim_distance": 0.534828245639801
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/79eed393.jpg",
+    "reward": 0.3763773441314697,
+    "dreamsim_distance": 0.6236226558685303
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/17def973.jpg",
+    "reward": 0.3737454414367676,
+    "dreamsim_distance": 0.6262545585632324
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/a6f58d29.jpg",
+    "reward": 0.43228679895401,
+    "dreamsim_distance": 0.56771320104599
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/c485fe32.jpg",
+    "reward": 0.4672079086303711,
+    "dreamsim_distance": 0.5327920913696289
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/4afd4e79.jpg",
+    "reward": 0.46920740604400635,
+    "dreamsim_distance": 0.5307925939559937
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/e1d12e88.jpg",
+    "reward": 0.5251900553703308,
+    "dreamsim_distance": 0.4748099446296692
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/964bda71.jpg",
+    "reward": 0.49659669399261475,
+    "dreamsim_distance": 0.5034033060073853
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/b64bcbb1.jpg",
+    "reward": 0.4495452642440796,
+    "dreamsim_distance": 0.5504547357559204
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/45a9f502.jpg",
+    "reward": 0.4214068651199341,
+    "dreamsim_distance": 0.5785931348800659
+  },
+  {
+    "content_path": "./data/content/blonde_girl.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/891bda2d.jpg",
+    "reward": 0.404188871383667,
+    "dreamsim_distance": 0.595811128616333
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/a5140e7c.jpg",
+    "reward": 0.5426299571990967,
+    "dreamsim_distance": 0.4573700428009033
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/a7da8d2a.jpg",
+    "reward": 0.555831253528595,
+    "dreamsim_distance": 0.44416874647140503
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e06a9f92.jpg",
+    "reward": 0.5715973377227783,
+    "dreamsim_distance": 0.4284026622772217
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/d036cf75.jpg",
+    "reward": 0.5832059979438782,
+    "dreamsim_distance": 0.4167940020561218
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/8f9d93db.jpg",
+    "reward": 0.5821852684020996,
+    "dreamsim_distance": 0.4178147315979004
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/02f024ff.jpg",
+    "reward": 0.3787705898284912,
+    "dreamsim_distance": 0.6212294101715088
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/8120c7df.jpg",
+    "reward": 0.409821093082428,
+    "dreamsim_distance": 0.590178906917572
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/210b9795.jpg",
+    "reward": 0.44586801528930664,
+    "dreamsim_distance": 0.5541319847106934
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/980f327e.jpg",
+    "reward": 0.439660906791687,
+    "dreamsim_distance": 0.560339093208313
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/aaa53c4d.jpg",
+    "reward": 0.4367827773094177,
+    "dreamsim_distance": 0.5632172226905823
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/1a5706f4.jpg",
+    "reward": 0.30235540866851807,
+    "dreamsim_distance": 0.6976445913314819
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/f8d1c806.jpg",
+    "reward": 0.32963162660598755,
+    "dreamsim_distance": 0.6703683733940125
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/568a9925.jpg",
+    "reward": 0.3097916841506958,
+    "dreamsim_distance": 0.6902083158493042
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/9c648ae2.jpg",
+    "reward": 0.2814512252807617,
+    "dreamsim_distance": 0.7185487747192383
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/38d1e996.jpg",
+    "reward": 0.2343202829360962,
+    "dreamsim_distance": 0.7656797170639038
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/3a926948.jpg",
+    "reward": 0.48023056983947754,
+    "dreamsim_distance": 0.5197694301605225
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/5ecb1871.jpg",
+    "reward": 0.4844626784324646,
+    "dreamsim_distance": 0.5155373215675354
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/4ea718bd.jpg",
+    "reward": 0.4714161157608032,
+    "dreamsim_distance": 0.5285838842391968
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/097b11d4.jpg",
+    "reward": 0.44745302200317383,
+    "dreamsim_distance": 0.5525469779968262
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/5e7ed603.jpg",
+    "reward": 0.4399520754814148,
+    "dreamsim_distance": 0.5600479245185852
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/c924dd78.jpg",
+    "reward": 0.33356529474258423,
+    "dreamsim_distance": 0.6664347052574158
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/a6187ead.jpg",
+    "reward": 0.3143371343612671,
+    "dreamsim_distance": 0.6856628656387329
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/3466201e.jpg",
+    "reward": 0.3144354820251465,
+    "dreamsim_distance": 0.6855645179748535
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/3273eba8.jpg",
+    "reward": 0.2688443660736084,
+    "dreamsim_distance": 0.7311556339263916
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/77d43c33.jpg",
+    "reward": 0.2647702097892761,
+    "dreamsim_distance": 0.7352297902107239
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/ab73cb8a.jpg",
+    "reward": 0.5803176164627075,
+    "dreamsim_distance": 0.4196823835372925
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/8ce32eed.jpg",
+    "reward": 0.5907657146453857,
+    "dreamsim_distance": 0.40923428535461426
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/951666e0.jpg",
+    "reward": 0.5960334539413452,
+    "dreamsim_distance": 0.4039665460586548
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/5d2b4b25.jpg",
+    "reward": 0.5772409439086914,
+    "dreamsim_distance": 0.4227590560913086
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/f511d0ac.jpg",
+    "reward": 0.5775036811828613,
+    "dreamsim_distance": 0.42249631881713867
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/bd4dc473.jpg",
+    "reward": 0.2688276767730713,
+    "dreamsim_distance": 0.7311723232269287
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/9bec6c37.jpg",
+    "reward": 0.24962544441223145,
+    "dreamsim_distance": 0.7503745555877686
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e3534aca.jpg",
+    "reward": 0.26702868938446045,
+    "dreamsim_distance": 0.7329713106155396
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/2618aefe.jpg",
+    "reward": 0.22479307651519775,
+    "dreamsim_distance": 0.7752069234848022
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/23381218.jpg",
+    "reward": 0.2077379822731018,
+    "dreamsim_distance": 0.7922620177268982
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/4dfe65ed.jpg",
+    "reward": 0.5412446856498718,
+    "dreamsim_distance": 0.4587553143501282
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/f549a67d.jpg",
+    "reward": 0.5597484111785889,
+    "dreamsim_distance": 0.44025158882141113
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/22509219.jpg",
+    "reward": 0.5829669237136841,
+    "dreamsim_distance": 0.4170330762863159
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/1689bf4a.jpg",
+    "reward": 0.5577403903007507,
+    "dreamsim_distance": 0.44225960969924927
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/556bc24d.jpg",
+    "reward": 0.558070182800293,
+    "dreamsim_distance": 0.44192981719970703
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/6e6160ee.jpg",
+    "reward": 0.3275120258331299,
+    "dreamsim_distance": 0.6724879741668701
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/b5012eb9.jpg",
+    "reward": 0.29903972148895264,
+    "dreamsim_distance": 0.7009602785110474
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/9f82654e.jpg",
+    "reward": 0.29949504137039185,
+    "dreamsim_distance": 0.7005049586296082
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/f47a1509.jpg",
+    "reward": 0.3696291446685791,
+    "dreamsim_distance": 0.6303708553314209
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/ebdebaa7.jpg",
+    "reward": 0.4167082905769348,
+    "dreamsim_distance": 0.5832917094230652
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/b8640272.jpg",
+    "reward": 0.5559924840927124,
+    "dreamsim_distance": 0.4440075159072876
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/ede22040.jpg",
+    "reward": 0.4601116180419922,
+    "dreamsim_distance": 0.5398883819580078
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/8c92198d.jpg",
+    "reward": 0.3436892032623291,
+    "dreamsim_distance": 0.6563107967376709
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/c6c6eabc.jpg",
+    "reward": 0.2676554322242737,
+    "dreamsim_distance": 0.7323445677757263
+  },
+  {
+    "content_path": "./data/content/brad_pitt.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/68981bb5.jpg",
+    "reward": 0.25255703926086426,
+    "dreamsim_distance": 0.7474429607391357
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/5b606008.jpg",
+    "reward": 0.5678792595863342,
+    "dreamsim_distance": 0.43212074041366577
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/0dbfcde9.jpg",
+    "reward": 0.5537117719650269,
+    "dreamsim_distance": 0.44628822803497314
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/7e839532.jpg",
+    "reward": 0.5576342940330505,
+    "dreamsim_distance": 0.44236570596694946
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/a19dc273.jpg",
+    "reward": 0.5491867065429688,
+    "dreamsim_distance": 0.45081329345703125
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/e69cb650.jpg",
+    "reward": 0.5189217329025269,
+    "dreamsim_distance": 0.48107826709747314
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/0c298476.jpg",
+    "reward": 0.45802444219589233,
+    "dreamsim_distance": 0.5419755578041077
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/38fb5199.jpg",
+    "reward": 0.43383824825286865,
+    "dreamsim_distance": 0.5661617517471313
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/f893c26e.jpg",
+    "reward": 0.41874825954437256,
+    "dreamsim_distance": 0.5812517404556274
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/80fb3e02.jpg",
+    "reward": 0.43494105339050293,
+    "dreamsim_distance": 0.5650589466094971
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/04474c0d.jpg",
+    "reward": 0.4274541139602661,
+    "dreamsim_distance": 0.5725458860397339
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/6c37b4eb.jpg",
+    "reward": 0.27225446701049805,
+    "dreamsim_distance": 0.727745532989502
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/466ae995.jpg",
+    "reward": 0.2756204605102539,
+    "dreamsim_distance": 0.7243795394897461
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/c2288621.jpg",
+    "reward": 0.28565293550491333,
+    "dreamsim_distance": 0.7143470644950867
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/7a663a00.jpg",
+    "reward": 0.2462068796157837,
+    "dreamsim_distance": 0.7537931203842163
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/939ceccc.jpg",
+    "reward": 0.24314963817596436,
+    "dreamsim_distance": 0.7568503618240356
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/d11f54b8.jpg",
+    "reward": 0.42291152477264404,
+    "dreamsim_distance": 0.577088475227356
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/ff579140.jpg",
+    "reward": 0.3688676357269287,
+    "dreamsim_distance": 0.6311323642730713
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/f0daaf66.jpg",
+    "reward": 0.3520486354827881,
+    "dreamsim_distance": 0.6479513645172119
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/9047a5b0.jpg",
+    "reward": 0.3332054018974304,
+    "dreamsim_distance": 0.6667945981025696
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/eeeb947c.jpg",
+    "reward": 0.33771878480911255,
+    "dreamsim_distance": 0.6622812151908875
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/25227fdd.jpg",
+    "reward": 0.4171530604362488,
+    "dreamsim_distance": 0.5828469395637512
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/b9d92f2e.jpg",
+    "reward": 0.35523366928100586,
+    "dreamsim_distance": 0.6447663307189941
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e8de6700.jpg",
+    "reward": 0.24049818515777588,
+    "dreamsim_distance": 0.7595018148422241
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/76ae0b08.jpg",
+    "reward": 0.2220272421836853,
+    "dreamsim_distance": 0.7779727578163147
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/69789c05.jpg",
+    "reward": 0.21827685832977295,
+    "dreamsim_distance": 0.781723141670227
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/adc70858.jpg",
+    "reward": 0.5867578983306885,
+    "dreamsim_distance": 0.4132421016693115
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/39e01db7.jpg",
+    "reward": 0.5941708087921143,
+    "dreamsim_distance": 0.40582919120788574
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/13f78fe1.jpg",
+    "reward": 0.5849170684814453,
+    "dreamsim_distance": 0.4150829315185547
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/f90aaf40.jpg",
+    "reward": 0.5384032130241394,
+    "dreamsim_distance": 0.4615967869758606
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/601b905a.jpg",
+    "reward": 0.496195912361145,
+    "dreamsim_distance": 0.503804087638855
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/2b398be0.jpg",
+    "reward": 0.24280375242233276,
+    "dreamsim_distance": 0.7571962475776672
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/962b5bf6.jpg",
+    "reward": 0.23570096492767334,
+    "dreamsim_distance": 0.7642990350723267
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/bb300d79.jpg",
+    "reward": 0.2250767946243286,
+    "dreamsim_distance": 0.7749232053756714
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/5f9d57ef.jpg",
+    "reward": 0.20653021335601807,
+    "dreamsim_distance": 0.7934697866439819
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/6c07b898.jpg",
+    "reward": 0.20684725046157837,
+    "dreamsim_distance": 0.7931527495384216
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/f6058878.jpg",
+    "reward": 0.6511706113815308,
+    "dreamsim_distance": 0.34882938861846924
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/26291a03.jpg",
+    "reward": 0.6190556883811951,
+    "dreamsim_distance": 0.38094431161880493
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/3cabce40.jpg",
+    "reward": 0.5035436749458313,
+    "dreamsim_distance": 0.4964563250541687
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/0560943a.jpg",
+    "reward": 0.35638320446014404,
+    "dreamsim_distance": 0.643616795539856
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/4e7612ab.jpg",
+    "reward": 0.3118175268173218,
+    "dreamsim_distance": 0.6881824731826782
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/ab803f64.jpg",
+    "reward": 0.295218825340271,
+    "dreamsim_distance": 0.704781174659729
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/71f2162b.jpg",
+    "reward": 0.31006962060928345,
+    "dreamsim_distance": 0.6899303793907166
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/b0863847.jpg",
+    "reward": 0.3416316509246826,
+    "dreamsim_distance": 0.6583683490753174
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/5443c15c.jpg",
+    "reward": 0.36404621601104736,
+    "dreamsim_distance": 0.6359537839889526
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/c890aefc.jpg",
+    "reward": 0.37196505069732666,
+    "dreamsim_distance": 0.6280349493026733
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/42d26708.jpg",
+    "reward": 0.2932738661766052,
+    "dreamsim_distance": 0.7067261338233948
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/75357f03.jpg",
+    "reward": 0.29573559761047363,
+    "dreamsim_distance": 0.7042644023895264
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/adc9a217.jpg",
+    "reward": 0.3085619807243347,
+    "dreamsim_distance": 0.6914380192756653
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/c72a9446.jpg",
+    "reward": 0.3271782398223877,
+    "dreamsim_distance": 0.6728217601776123
+  },
+  {
+    "content_path": "./data/content/chicago.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/eac532ea.jpg",
+    "reward": 0.3319234251976013,
+    "dreamsim_distance": 0.6680765748023987
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/fedf86ce.jpg",
+    "reward": 0.5007954835891724,
+    "dreamsim_distance": 0.49920451641082764
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/1efe3720.jpg",
+    "reward": 0.5272358059883118,
+    "dreamsim_distance": 0.47276419401168823
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/3e6ee1fd.jpg",
+    "reward": 0.5380591154098511,
+    "dreamsim_distance": 0.4619408845901489
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/6a844bab.jpg",
+    "reward": 0.5178731679916382,
+    "dreamsim_distance": 0.4821268320083618
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/6bcd0525.jpg",
+    "reward": 0.5012362599372864,
+    "dreamsim_distance": 0.4987637400627136
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/f7967d5d.jpg",
+    "reward": 0.39459753036499023,
+    "dreamsim_distance": 0.6054024696350098
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/1071a39e.jpg",
+    "reward": 0.41095924377441406,
+    "dreamsim_distance": 0.5890407562255859
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/cb438737.jpg",
+    "reward": 0.42069685459136963,
+    "dreamsim_distance": 0.5793031454086304
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/23b036af.jpg",
+    "reward": 0.42671048641204834,
+    "dreamsim_distance": 0.5732895135879517
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/a4d24478.jpg",
+    "reward": 0.42941993474960327,
+    "dreamsim_distance": 0.5705800652503967
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/ca4718de.jpg",
+    "reward": 0.24623429775238037,
+    "dreamsim_distance": 0.7537657022476196
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/209fb519.jpg",
+    "reward": 0.2635883092880249,
+    "dreamsim_distance": 0.7364116907119751
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e921c1fd.jpg",
+    "reward": 0.26891082525253296,
+    "dreamsim_distance": 0.731089174747467
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/c0623ad4.jpg",
+    "reward": 0.27692174911499023,
+    "dreamsim_distance": 0.7230782508850098
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/5614eb67.jpg",
+    "reward": 0.2722907066345215,
+    "dreamsim_distance": 0.7277092933654785
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/c5acc765.jpg",
+    "reward": 0.4131271243095398,
+    "dreamsim_distance": 0.5868728756904602
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/bc940644.jpg",
+    "reward": 0.4318409562110901,
+    "dreamsim_distance": 0.5681590437889099
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/dd5c7000.jpg",
+    "reward": 0.4305492043495178,
+    "dreamsim_distance": 0.5694507956504822
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/231707a5.jpg",
+    "reward": 0.418001651763916,
+    "dreamsim_distance": 0.581998348236084
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/445fc5f0.jpg",
+    "reward": 0.3945465087890625,
+    "dreamsim_distance": 0.6054534912109375
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/ae45102c.jpg",
+    "reward": 0.2870241403579712,
+    "dreamsim_distance": 0.7129758596420288
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/5176b3cc.jpg",
+    "reward": 0.28714561462402344,
+    "dreamsim_distance": 0.7128543853759766
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/761c1e6e.jpg",
+    "reward": 0.27010512351989746,
+    "dreamsim_distance": 0.7298948764801025
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/03e5ee52.jpg",
+    "reward": 0.24697500467300415,
+    "dreamsim_distance": 0.7530249953269958
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/72873cd9.jpg",
+    "reward": 0.24436593055725098,
+    "dreamsim_distance": 0.755634069442749
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/9e24daa4.jpg",
+    "reward": 0.4643864631652832,
+    "dreamsim_distance": 0.5356135368347168
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/6f941224.jpg",
+    "reward": 0.4696938395500183,
+    "dreamsim_distance": 0.5303061604499817
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/9dd4d84c.jpg",
+    "reward": 0.4580758810043335,
+    "dreamsim_distance": 0.5419241189956665
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/9b4aa0d4.jpg",
+    "reward": 0.41418325901031494,
+    "dreamsim_distance": 0.5858167409896851
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/dbbd4d40.jpg",
+    "reward": 0.3917387127876282,
+    "dreamsim_distance": 0.6082612872123718
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/3f1ce2f0.jpg",
+    "reward": 0.23384058475494385,
+    "dreamsim_distance": 0.7661594152450562
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/f895ffaa.jpg",
+    "reward": 0.21514379978179932,
+    "dreamsim_distance": 0.7848562002182007
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/77d93bbc.jpg",
+    "reward": 0.21066832542419434,
+    "dreamsim_distance": 0.7893316745758057
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/19e79a2b.jpg",
+    "reward": 0.18717575073242188,
+    "dreamsim_distance": 0.8128242492675781
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/b3f4b229.jpg",
+    "reward": 0.1817123293876648,
+    "dreamsim_distance": 0.8182876706123352
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/0c035a98.jpg",
+    "reward": 0.5247936248779297,
+    "dreamsim_distance": 0.4752063751220703
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/002e09d3.jpg",
+    "reward": 0.515757143497467,
+    "dreamsim_distance": 0.48424285650253296
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/3200aabe.jpg",
+    "reward": 0.3980697989463806,
+    "dreamsim_distance": 0.6019302010536194
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/7bf266cd.jpg",
+    "reward": 0.34152841567993164,
+    "dreamsim_distance": 0.6584715843200684
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/a9413fff.jpg",
+    "reward": 0.31569498777389526,
+    "dreamsim_distance": 0.6843050122261047
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/e7e7c43f.jpg",
+    "reward": 0.35103845596313477,
+    "dreamsim_distance": 0.6489615440368652
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/6143c6fa.jpg",
+    "reward": 0.3725038170814514,
+    "dreamsim_distance": 0.6274961829185486
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/57a922f0.jpg",
+    "reward": 0.3642212152481079,
+    "dreamsim_distance": 0.6357787847518921
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/40baf06b.jpg",
+    "reward": 0.36767125129699707,
+    "dreamsim_distance": 0.6323287487030029
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/121718b9.jpg",
+    "reward": 0.3704524040222168,
+    "dreamsim_distance": 0.6295475959777832
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/2cd7b367.jpg",
+    "reward": 0.4215199947357178,
+    "dreamsim_distance": 0.5784800052642822
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/65b0d9fb.jpg",
+    "reward": 0.4547199010848999,
+    "dreamsim_distance": 0.5452800989151001
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/6b4541c3.jpg",
+    "reward": 0.4444778561592102,
+    "dreamsim_distance": 0.5555221438407898
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/c45b9c25.jpg",
+    "reward": 0.3884207010269165,
+    "dreamsim_distance": 0.6115792989730835
+  },
+  {
+    "content_path": "./data/content/cornell.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/b8f62904.jpg",
+    "reward": 0.3770291805267334,
+    "dreamsim_distance": 0.6229708194732666
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/0aefa21c.jpg",
+    "reward": 0.6435035467147827,
+    "dreamsim_distance": 0.3564964532852173
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/56690595.jpg",
+    "reward": 0.6519304513931274,
+    "dreamsim_distance": 0.34806954860687256
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/12965094.jpg",
+    "reward": 0.6324164271354675,
+    "dreamsim_distance": 0.36758357286453247
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/75e19b01.jpg",
+    "reward": 0.5838719606399536,
+    "dreamsim_distance": 0.4161280393600464
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/08a8df8b.jpg",
+    "reward": 0.5583181977272034,
+    "dreamsim_distance": 0.44168180227279663
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/f086c0df.jpg",
+    "reward": 0.5523982048034668,
+    "dreamsim_distance": 0.4476017951965332
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/79659508.jpg",
+    "reward": 0.5361168384552002,
+    "dreamsim_distance": 0.4638831615447998
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/06c6d3a8.jpg",
+    "reward": 0.5049229860305786,
+    "dreamsim_distance": 0.4950770139694214
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/c098a8b1.jpg",
+    "reward": 0.4881727695465088,
+    "dreamsim_distance": 0.5118272304534912
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/69a3c145.jpg",
+    "reward": 0.48571133613586426,
+    "dreamsim_distance": 0.5142886638641357
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/9da470ab.jpg",
+    "reward": 0.5593410134315491,
+    "dreamsim_distance": 0.4406589865684509
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/aeb64d51.jpg",
+    "reward": 0.554291844367981,
+    "dreamsim_distance": 0.44570815563201904
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/d3f294a6.jpg",
+    "reward": 0.5500537157058716,
+    "dreamsim_distance": 0.4499462842941284
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/e2d2ebe6.jpg",
+    "reward": 0.5247926712036133,
+    "dreamsim_distance": 0.4752073287963867
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/edffdf5a.jpg",
+    "reward": 0.5089726448059082,
+    "dreamsim_distance": 0.4910273551940918
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/b252fb51.jpg",
+    "reward": 0.6005635261535645,
+    "dreamsim_distance": 0.39943647384643555
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/b7dcd39d.jpg",
+    "reward": 0.5998682975769043,
+    "dreamsim_distance": 0.4001317024230957
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/3cc84bef.jpg",
+    "reward": 0.5811230540275574,
+    "dreamsim_distance": 0.4188769459724426
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/26b8ac19.jpg",
+    "reward": 0.5254493951797485,
+    "dreamsim_distance": 0.47455060482025146
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/30cca254.jpg",
+    "reward": 0.4965696334838867,
+    "dreamsim_distance": 0.5034303665161133
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/cccb71e8.jpg",
+    "reward": 0.4933047890663147,
+    "dreamsim_distance": 0.5066952109336853
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/41644241.jpg",
+    "reward": 0.4857562780380249,
+    "dreamsim_distance": 0.5142437219619751
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/92191f42.jpg",
+    "reward": 0.45688068866729736,
+    "dreamsim_distance": 0.5431193113327026
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/57a463e1.jpg",
+    "reward": 0.39795780181884766,
+    "dreamsim_distance": 0.6020421981811523
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/360a467e.jpg",
+    "reward": 0.3897637128829956,
+    "dreamsim_distance": 0.6102362871170044
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/84f6596b.jpg",
+    "reward": 0.6239665150642395,
+    "dreamsim_distance": 0.3760334849357605
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/cab550cc.jpg",
+    "reward": 0.6425349712371826,
+    "dreamsim_distance": 0.3574650287628174
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e2bdf731.jpg",
+    "reward": 0.6328506469726562,
+    "dreamsim_distance": 0.36714935302734375
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/46f885c7.jpg",
+    "reward": 0.5487627983093262,
+    "dreamsim_distance": 0.45123720169067383
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/11f6fd35.jpg",
+    "reward": 0.5049605369567871,
+    "dreamsim_distance": 0.4950394630432129
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/b736f8f1.jpg",
+    "reward": 0.37146204710006714,
+    "dreamsim_distance": 0.6285379528999329
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/46e3c394.jpg",
+    "reward": 0.39398419857025146,
+    "dreamsim_distance": 0.6060158014297485
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/a70dff9f.jpg",
+    "reward": 0.41343843936920166,
+    "dreamsim_distance": 0.5865615606307983
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/964990f6.jpg",
+    "reward": 0.4025260806083679,
+    "dreamsim_distance": 0.5974739193916321
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/14e2a77d.jpg",
+    "reward": 0.3825160264968872,
+    "dreamsim_distance": 0.6174839735031128
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/f51a569e.jpg",
+    "reward": 0.6369683146476746,
+    "dreamsim_distance": 0.36303168535232544
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/ac81c825.jpg",
+    "reward": 0.6565150022506714,
+    "dreamsim_distance": 0.3434849977493286
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/5644e8e4.jpg",
+    "reward": 0.5779106616973877,
+    "dreamsim_distance": 0.4220893383026123
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/d572e1a8.jpg",
+    "reward": 0.5082167983055115,
+    "dreamsim_distance": 0.4917832016944885
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/95caffaf.jpg",
+    "reward": 0.49218034744262695,
+    "dreamsim_distance": 0.507819652557373
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/4bb08fc0.jpg",
+    "reward": 0.5201476216316223,
+    "dreamsim_distance": 0.4798523783683777
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/6b22aa31.jpg",
+    "reward": 0.5146420001983643,
+    "dreamsim_distance": 0.48535799980163574
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/9581c8d4.jpg",
+    "reward": 0.5180270671844482,
+    "dreamsim_distance": 0.48197293281555176
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/72be8a8b.jpg",
+    "reward": 0.5107019543647766,
+    "dreamsim_distance": 0.4892980456352234
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/938e7c0d.jpg",
+    "reward": 0.5004627704620361,
+    "dreamsim_distance": 0.49953722953796387
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/b0936d85.jpg",
+    "reward": 0.5874510407447815,
+    "dreamsim_distance": 0.4125489592552185
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/3e9e67b0.jpg",
+    "reward": 0.5714941024780273,
+    "dreamsim_distance": 0.42850589752197266
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/90b45f53.jpg",
+    "reward": 0.5302034020423889,
+    "dreamsim_distance": 0.4697965979576111
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/e405a5c0.jpg",
+    "reward": 0.49572378396987915,
+    "dreamsim_distance": 0.5042762160301208
+  },
+  {
+    "content_path": "./data/content/flowers.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/552f1ca0.jpg",
+    "reward": 0.48180997371673584,
+    "dreamsim_distance": 0.5181900262832642
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/941befb2.jpg",
+    "reward": 0.5260975360870361,
+    "dreamsim_distance": 0.47390246391296387
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/d152b31d.jpg",
+    "reward": 0.5637340545654297,
+    "dreamsim_distance": 0.4362659454345703
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/5b24b9c0.jpg",
+    "reward": 0.5929471254348755,
+    "dreamsim_distance": 0.4070528745651245
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/3e934788.jpg",
+    "reward": 0.6196024417877197,
+    "dreamsim_distance": 0.3803975582122803
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/8554d1e3.jpg",
+    "reward": 0.5997723340988159,
+    "dreamsim_distance": 0.4002276659011841
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/2969bb8a.jpg",
+    "reward": 0.36175525188446045,
+    "dreamsim_distance": 0.6382447481155396
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/f9eefac1.jpg",
+    "reward": 0.4073140025138855,
+    "dreamsim_distance": 0.5926859974861145
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/1ed19b3c.jpg",
+    "reward": 0.44663310050964355,
+    "dreamsim_distance": 0.5533668994903564
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/3b8bcd0d.jpg",
+    "reward": 0.4425349235534668,
+    "dreamsim_distance": 0.5574650764465332
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/96956b7c.jpg",
+    "reward": 0.43764978647232056,
+    "dreamsim_distance": 0.5623502135276794
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/10038141.jpg",
+    "reward": 0.2860363721847534,
+    "dreamsim_distance": 0.7139636278152466
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/be6dc9a2.jpg",
+    "reward": 0.2856772541999817,
+    "dreamsim_distance": 0.7143227458000183
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/595b64e7.jpg",
+    "reward": 0.2687714099884033,
+    "dreamsim_distance": 0.7312285900115967
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/adce8b28.jpg",
+    "reward": 0.23577934503555298,
+    "dreamsim_distance": 0.764220654964447
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/25c7a48c.jpg",
+    "reward": 0.2180691361427307,
+    "dreamsim_distance": 0.7819308638572693
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/3ee1946e.jpg",
+    "reward": 0.4120156168937683,
+    "dreamsim_distance": 0.5879843831062317
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/7b59b577.jpg",
+    "reward": 0.41450798511505127,
+    "dreamsim_distance": 0.5854920148849487
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/d868b882.jpg",
+    "reward": 0.3897128105163574,
+    "dreamsim_distance": 0.6102871894836426
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/fc351a17.jpg",
+    "reward": 0.34400004148483276,
+    "dreamsim_distance": 0.6559999585151672
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/1b0271b9.jpg",
+    "reward": 0.3198736906051636,
+    "dreamsim_distance": 0.6801263093948364
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/e8b347d7.jpg",
+    "reward": 0.33259695768356323,
+    "dreamsim_distance": 0.6674030423164368
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/8637a79c.jpg",
+    "reward": 0.295787513256073,
+    "dreamsim_distance": 0.704212486743927
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/45ef928e.jpg",
+    "reward": 0.20705008506774902,
+    "dreamsim_distance": 0.792949914932251
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/52f4f3a6.jpg",
+    "reward": 0.18347281217575073,
+    "dreamsim_distance": 0.8165271878242493
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/4102708d.jpg",
+    "reward": 0.16866439580917358,
+    "dreamsim_distance": 0.8313356041908264
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/679c691b.jpg",
+    "reward": 0.6012809872627258,
+    "dreamsim_distance": 0.39871901273727417
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/404e627a.jpg",
+    "reward": 0.5845413208007812,
+    "dreamsim_distance": 0.41545867919921875
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/fbf002a5.jpg",
+    "reward": 0.556800127029419,
+    "dreamsim_distance": 0.44319987297058105
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/deb0cb39.jpg",
+    "reward": 0.5391854047775269,
+    "dreamsim_distance": 0.46081459522247314
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/dece7cfc.jpg",
+    "reward": 0.4939541816711426,
+    "dreamsim_distance": 0.5060458183288574
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/0a8572b4.jpg",
+    "reward": 0.20490598678588867,
+    "dreamsim_distance": 0.7950940132141113
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/549acb2d.jpg",
+    "reward": 0.2071399688720703,
+    "dreamsim_distance": 0.7928600311279297
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/b63c7b58.jpg",
+    "reward": 0.20412027835845947,
+    "dreamsim_distance": 0.7958797216415405
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/fc0a993f.jpg",
+    "reward": 0.1757417917251587,
+    "dreamsim_distance": 0.8242582082748413
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/1d02021b.jpg",
+    "reward": 0.15833914279937744,
+    "dreamsim_distance": 0.8416608572006226
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/fe564fe2.jpg",
+    "reward": 0.5483943223953247,
+    "dreamsim_distance": 0.4516056776046753
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/8d76b6f6.jpg",
+    "reward": 0.5344744920730591,
+    "dreamsim_distance": 0.4655255079269409
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/f42998fe.jpg",
+    "reward": 0.5097556114196777,
+    "dreamsim_distance": 0.49024438858032227
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/db76c9cd.jpg",
+    "reward": 0.29569411277770996,
+    "dreamsim_distance": 0.70430588722229
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/462602b1.jpg",
+    "reward": 0.2465551495552063,
+    "dreamsim_distance": 0.7534448504447937
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/b57b7d5c.jpg",
+    "reward": 0.3470209836959839,
+    "dreamsim_distance": 0.6529790163040161
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/e9da46cb.jpg",
+    "reward": 0.36608994007110596,
+    "dreamsim_distance": 0.633910059928894
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/44cc48e1.jpg",
+    "reward": 0.3798269033432007,
+    "dreamsim_distance": 0.6201730966567993
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/3595dffa.jpg",
+    "reward": 0.38213127851486206,
+    "dreamsim_distance": 0.6178687214851379
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/e28a2bcb.jpg",
+    "reward": 0.38109904527664185,
+    "dreamsim_distance": 0.6189009547233582
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/74d96d7a.jpg",
+    "reward": 0.49820417165756226,
+    "dreamsim_distance": 0.5017958283424377
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/a3707463.jpg",
+    "reward": 0.4808523654937744,
+    "dreamsim_distance": 0.5191476345062256
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/99cf1f4e.jpg",
+    "reward": 0.45269775390625,
+    "dreamsim_distance": 0.54730224609375
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/26058cde.jpg",
+    "reward": 0.3642781972885132,
+    "dreamsim_distance": 0.6357218027114868
+  },
+  {
+    "content_path": "./data/content/golden_gate.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/63be210c.jpg",
+    "reward": 0.308627724647522,
+    "dreamsim_distance": 0.691372275352478
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/acf96885.jpg",
+    "reward": 0.4649113416671753,
+    "dreamsim_distance": 0.5350886583328247
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/237f3fab.jpg",
+    "reward": 0.47138047218322754,
+    "dreamsim_distance": 0.5286195278167725
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/95d4abea.jpg",
+    "reward": 0.49728190898895264,
+    "dreamsim_distance": 0.5027180910110474
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/d391b561.jpg",
+    "reward": 0.5244011878967285,
+    "dreamsim_distance": 0.4755988121032715
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/6f86238a.jpg",
+    "reward": 0.5383851528167725,
+    "dreamsim_distance": 0.46161484718322754
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/23bd3d1d.jpg",
+    "reward": 0.4833475351333618,
+    "dreamsim_distance": 0.5166524648666382
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/883f1be6.jpg",
+    "reward": 0.48954129219055176,
+    "dreamsim_distance": 0.5104587078094482
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/51ef3629.jpg",
+    "reward": 0.4935581684112549,
+    "dreamsim_distance": 0.5064418315887451
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/f451759c.jpg",
+    "reward": 0.4886666536331177,
+    "dreamsim_distance": 0.5113333463668823
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/a5e9eee5.jpg",
+    "reward": 0.4927670359611511,
+    "dreamsim_distance": 0.5072329640388489
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/3eb80aac.jpg",
+    "reward": 0.3503074645996094,
+    "dreamsim_distance": 0.6496925354003906
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/a6fb3f41.jpg",
+    "reward": 0.3570207953453064,
+    "dreamsim_distance": 0.6429792046546936
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/8fb92443.jpg",
+    "reward": 0.35049307346343994,
+    "dreamsim_distance": 0.6495069265365601
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/02eac908.jpg",
+    "reward": 0.35853493213653564,
+    "dreamsim_distance": 0.6414650678634644
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/7a1db63b.jpg",
+    "reward": 0.3711531162261963,
+    "dreamsim_distance": 0.6288468837738037
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/3887ba5e.jpg",
+    "reward": 0.45614874362945557,
+    "dreamsim_distance": 0.5438512563705444
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/f1380ddb.jpg",
+    "reward": 0.4638122320175171,
+    "dreamsim_distance": 0.5361877679824829
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/504ce34a.jpg",
+    "reward": 0.47446930408477783,
+    "dreamsim_distance": 0.5255306959152222
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/3feb6a39.jpg",
+    "reward": 0.47944724559783936,
+    "dreamsim_distance": 0.5205527544021606
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/135a8cbb.jpg",
+    "reward": 0.4793940782546997,
+    "dreamsim_distance": 0.5206059217453003
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/d5519862.jpg",
+    "reward": 0.3070617914199829,
+    "dreamsim_distance": 0.6929382085800171
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/620852c2.jpg",
+    "reward": 0.31184685230255127,
+    "dreamsim_distance": 0.6881531476974487
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/b452d118.jpg",
+    "reward": 0.3390492796897888,
+    "dreamsim_distance": 0.6609507203102112
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/d09e12cd.jpg",
+    "reward": 0.34815627336502075,
+    "dreamsim_distance": 0.6518437266349792
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/18f6c84a.jpg",
+    "reward": 0.36122119426727295,
+    "dreamsim_distance": 0.638778805732727
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/7d1a8d63.jpg",
+    "reward": 0.49861830472946167,
+    "dreamsim_distance": 0.5013816952705383
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/cb50dd74.jpg",
+    "reward": 0.48303645849227905,
+    "dreamsim_distance": 0.516963541507721
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/8cf2401f.jpg",
+    "reward": 0.4810503125190735,
+    "dreamsim_distance": 0.5189496874809265
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/48d886c3.jpg",
+    "reward": 0.4667540192604065,
+    "dreamsim_distance": 0.5332459807395935
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/d06cfe77.jpg",
+    "reward": 0.4555439352989197,
+    "dreamsim_distance": 0.5444560647010803
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/c377bec0.jpg",
+    "reward": 0.35258960723876953,
+    "dreamsim_distance": 0.6474103927612305
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/435a2721.jpg",
+    "reward": 0.3316604495048523,
+    "dreamsim_distance": 0.6683395504951477
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/4785ed1f.jpg",
+    "reward": 0.3415614366531372,
+    "dreamsim_distance": 0.6584385633468628
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/44074d11.jpg",
+    "reward": 0.3423762917518616,
+    "dreamsim_distance": 0.6576237082481384
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/2dc4d9ab.jpg",
+    "reward": 0.35518813133239746,
+    "dreamsim_distance": 0.6448118686676025
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/692cd43e.jpg",
+    "reward": 0.5362633466720581,
+    "dreamsim_distance": 0.4637366533279419
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/1499064f.jpg",
+    "reward": 0.5385150909423828,
+    "dreamsim_distance": 0.4614849090576172
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/8e294978.jpg",
+    "reward": 0.5129023790359497,
+    "dreamsim_distance": 0.4870976209640503
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/4ec4bc8e.jpg",
+    "reward": 0.4705178737640381,
+    "dreamsim_distance": 0.5294821262359619
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/81a1d66f.jpg",
+    "reward": 0.44354748725891113,
+    "dreamsim_distance": 0.5564525127410889
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/cdca0244.jpg",
+    "reward": 0.42929595708847046,
+    "dreamsim_distance": 0.5707040429115295
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/d6cce903.jpg",
+    "reward": 0.4510612487792969,
+    "dreamsim_distance": 0.5489387512207031
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/5661fa5b.jpg",
+    "reward": 0.4865160584449768,
+    "dreamsim_distance": 0.5134839415550232
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/2bbb9466.jpg",
+    "reward": 0.5009301900863647,
+    "dreamsim_distance": 0.49906980991363525
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/f6e57094.jpg",
+    "reward": 0.504288911819458,
+    "dreamsim_distance": 0.495711088180542
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/40721967.jpg",
+    "reward": 0.42339974641799927,
+    "dreamsim_distance": 0.5766002535820007
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/658669dd.jpg",
+    "reward": 0.43158185482025146,
+    "dreamsim_distance": 0.5684181451797485
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/62dc3eac.jpg",
+    "reward": 0.43128979206085205,
+    "dreamsim_distance": 0.568710207939148
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/26076e68.jpg",
+    "reward": 0.42584264278411865,
+    "dreamsim_distance": 0.5741573572158813
+  },
+  {
+    "content_path": "./data/content/lenna.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/e79b428b.jpg",
+    "reward": 0.43278372287750244,
+    "dreamsim_distance": 0.5672162771224976
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/018f00a8.jpg",
+    "reward": 0.45929616689682007,
+    "dreamsim_distance": 0.5407038331031799
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/dc3c9b66.jpg",
+    "reward": 0.4696936011314392,
+    "dreamsim_distance": 0.5303063988685608
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/87d14149.jpg",
+    "reward": 0.4701223373413086,
+    "dreamsim_distance": 0.5298776626586914
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/cdb3cf14.jpg",
+    "reward": 0.46127307415008545,
+    "dreamsim_distance": 0.5387269258499146
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/d34939b9.jpg",
+    "reward": 0.453203022480011,
+    "dreamsim_distance": 0.546796977519989
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/221e330e.jpg",
+    "reward": 0.44426631927490234,
+    "dreamsim_distance": 0.5557336807250977
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/fc4ffefb.jpg",
+    "reward": 0.43400847911834717,
+    "dreamsim_distance": 0.5659915208816528
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/a3288946.jpg",
+    "reward": 0.4229520559310913,
+    "dreamsim_distance": 0.5770479440689087
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/9ab995c4.jpg",
+    "reward": 0.4188733696937561,
+    "dreamsim_distance": 0.5811266303062439
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/ea79a4f3.jpg",
+    "reward": 0.4154234528541565,
+    "dreamsim_distance": 0.5845765471458435
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/377fa56e.jpg",
+    "reward": 0.3116374611854553,
+    "dreamsim_distance": 0.6883625388145447
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/e4224419.jpg",
+    "reward": 0.30754876136779785,
+    "dreamsim_distance": 0.6924512386322021
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/6a86ecd6.jpg",
+    "reward": 0.2899237871170044,
+    "dreamsim_distance": 0.7100762128829956
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/64785c94.jpg",
+    "reward": 0.2991899251937866,
+    "dreamsim_distance": 0.7008100748062134
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/d572fca3.jpg",
+    "reward": 0.30998557806015015,
+    "dreamsim_distance": 0.6900144219398499
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/5db83567.jpg",
+    "reward": 0.4089118242263794,
+    "dreamsim_distance": 0.5910881757736206
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/dd963c22.jpg",
+    "reward": 0.4044094681739807,
+    "dreamsim_distance": 0.5955905318260193
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/486ce9f6.jpg",
+    "reward": 0.396464467048645,
+    "dreamsim_distance": 0.603535532951355
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/403034e0.jpg",
+    "reward": 0.37902534008026123,
+    "dreamsim_distance": 0.6209746599197388
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/5636b031.jpg",
+    "reward": 0.37479186058044434,
+    "dreamsim_distance": 0.6252081394195557
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/d161d1ea.jpg",
+    "reward": 0.2943822145462036,
+    "dreamsim_distance": 0.7056177854537964
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/39b44550.jpg",
+    "reward": 0.2939654588699341,
+    "dreamsim_distance": 0.7060345411300659
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e528c044.jpg",
+    "reward": 0.28414374589920044,
+    "dreamsim_distance": 0.7158562541007996
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/26f415e6.jpg",
+    "reward": 0.3047710657119751,
+    "dreamsim_distance": 0.6952289342880249
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/00cdc42c.jpg",
+    "reward": 0.2911253571510315,
+    "dreamsim_distance": 0.7088746428489685
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/868f8a03.jpg",
+    "reward": 0.4222586750984192,
+    "dreamsim_distance": 0.5777413249015808
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/989ed047.jpg",
+    "reward": 0.42639732360839844,
+    "dreamsim_distance": 0.5736026763916016
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/b548085a.jpg",
+    "reward": 0.4246600270271301,
+    "dreamsim_distance": 0.5753399729728699
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/6f573438.jpg",
+    "reward": 0.39744192361831665,
+    "dreamsim_distance": 0.6025580763816833
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/1c4dd821.jpg",
+    "reward": 0.38602733612060547,
+    "dreamsim_distance": 0.6139726638793945
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/d9b3fdc2.jpg",
+    "reward": 0.3039137125015259,
+    "dreamsim_distance": 0.6960862874984741
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/a5adb776.jpg",
+    "reward": 0.28291797637939453,
+    "dreamsim_distance": 0.7170820236206055
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/58900a7a.jpg",
+    "reward": 0.29765260219573975,
+    "dreamsim_distance": 0.7023473978042603
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/d2fdfc6b.jpg",
+    "reward": 0.30902940034866333,
+    "dreamsim_distance": 0.6909705996513367
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/bc04e3ef.jpg",
+    "reward": 0.30751192569732666,
+    "dreamsim_distance": 0.6924880743026733
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/16f40723.jpg",
+    "reward": 0.4761631488800049,
+    "dreamsim_distance": 0.5238368511199951
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/740a9f92.jpg",
+    "reward": 0.4754318594932556,
+    "dreamsim_distance": 0.5245681405067444
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e440d0d7.jpg",
+    "reward": 0.443111777305603,
+    "dreamsim_distance": 0.556888222694397
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/dcb5e27b.jpg",
+    "reward": 0.4191097021102905,
+    "dreamsim_distance": 0.5808902978897095
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/f5814038.jpg",
+    "reward": 0.393498957157135,
+    "dreamsim_distance": 0.606501042842865
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/7220297e.jpg",
+    "reward": 0.3940168023109436,
+    "dreamsim_distance": 0.6059831976890564
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/ca3d0dc0.jpg",
+    "reward": 0.3922872543334961,
+    "dreamsim_distance": 0.6077127456665039
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/a74641f9.jpg",
+    "reward": 0.38749659061431885,
+    "dreamsim_distance": 0.6125034093856812
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/f2cd3cc0.jpg",
+    "reward": 0.38494873046875,
+    "dreamsim_distance": 0.61505126953125
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/c1bd6ed3.jpg",
+    "reward": 0.39157891273498535,
+    "dreamsim_distance": 0.6084210872650146
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/a946bfb3.jpg",
+    "reward": 0.45528239011764526,
+    "dreamsim_distance": 0.5447176098823547
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/678c1f9d.jpg",
+    "reward": 0.4334338903427124,
+    "dreamsim_distance": 0.5665661096572876
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e34f40ad.jpg",
+    "reward": 0.4063798785209656,
+    "dreamsim_distance": 0.5936201214790344
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/9a08172a.jpg",
+    "reward": 0.39075982570648193,
+    "dreamsim_distance": 0.6092401742935181
+  },
+  {
+    "content_path": "./data/content/modern.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/eebc4be2.jpg",
+    "reward": 0.38807111978530884,
+    "dreamsim_distance": 0.6119288802146912
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/1bb01a48.jpg",
+    "reward": 0.6277586221694946,
+    "dreamsim_distance": 0.37224137783050537
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/16d9cd58.jpg",
+    "reward": 0.651911199092865,
+    "dreamsim_distance": 0.348088800907135
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e4430fa4.jpg",
+    "reward": 0.6465514898300171,
+    "dreamsim_distance": 0.3534485101699829
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/50bfeafb.jpg",
+    "reward": 0.6286231279373169,
+    "dreamsim_distance": 0.3713768720626831
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/7f7f85e6.jpg",
+    "reward": 0.6189680099487305,
+    "dreamsim_distance": 0.38103199005126953
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/7c362f5f.jpg",
+    "reward": 0.4889206886291504,
+    "dreamsim_distance": 0.5110793113708496
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/01308bc6.jpg",
+    "reward": 0.513993501663208,
+    "dreamsim_distance": 0.486006498336792
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/821a7ea5.jpg",
+    "reward": 0.5109229683876038,
+    "dreamsim_distance": 0.48907703161239624
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/a923efef.jpg",
+    "reward": 0.49010491371154785,
+    "dreamsim_distance": 0.5098950862884521
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/557c68b4.jpg",
+    "reward": 0.4881199598312378,
+    "dreamsim_distance": 0.5118800401687622
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/961ce4ac.jpg",
+    "reward": 0.3757823705673218,
+    "dreamsim_distance": 0.6242176294326782
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/b24144c4.jpg",
+    "reward": 0.4533339738845825,
+    "dreamsim_distance": 0.5466660261154175
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/f57e2cb2.jpg",
+    "reward": 0.46208274364471436,
+    "dreamsim_distance": 0.5379172563552856
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/a199b6c5.jpg",
+    "reward": 0.43415170907974243,
+    "dreamsim_distance": 0.5658482909202576
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/4824a984.jpg",
+    "reward": 0.4235105514526367,
+    "dreamsim_distance": 0.5764894485473633
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/2b07c66b.jpg",
+    "reward": 0.5525826215744019,
+    "dreamsim_distance": 0.44741737842559814
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/00b34dda.jpg",
+    "reward": 0.5440746545791626,
+    "dreamsim_distance": 0.4559253454208374
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/236a7473.jpg",
+    "reward": 0.5192694664001465,
+    "dreamsim_distance": 0.4807305335998535
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/70da3418.jpg",
+    "reward": 0.4957280158996582,
+    "dreamsim_distance": 0.5042719841003418
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/0421e5df.jpg",
+    "reward": 0.475429892539978,
+    "dreamsim_distance": 0.524570107460022
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/2916303a.jpg",
+    "reward": 0.4694160223007202,
+    "dreamsim_distance": 0.5305839776992798
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/fb03a639.jpg",
+    "reward": 0.4800776243209839,
+    "dreamsim_distance": 0.5199223756790161
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/ef1ce73a.jpg",
+    "reward": 0.4503592252731323,
+    "dreamsim_distance": 0.5496407747268677
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/be60e981.jpg",
+    "reward": 0.4266010522842407,
+    "dreamsim_distance": 0.5733989477157593
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/a9326f84.jpg",
+    "reward": 0.3880401849746704,
+    "dreamsim_distance": 0.6119598150253296
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/df733df5.jpg",
+    "reward": 0.6753877401351929,
+    "dreamsim_distance": 0.32461225986480713
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/06d89934.jpg",
+    "reward": 0.6834965944290161,
+    "dreamsim_distance": 0.3165034055709839
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/437e3a06.jpg",
+    "reward": 0.6802341341972351,
+    "dreamsim_distance": 0.3197658658027649
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/ce95d057.jpg",
+    "reward": 0.605192244052887,
+    "dreamsim_distance": 0.39480775594711304
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/63aba95c.jpg",
+    "reward": 0.5630905628204346,
+    "dreamsim_distance": 0.43690943717956543
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/1b66eb5b.jpg",
+    "reward": 0.5364676713943481,
+    "dreamsim_distance": 0.46353232860565186
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/378c10d6.jpg",
+    "reward": 0.5368703603744507,
+    "dreamsim_distance": 0.4631296396255493
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/a5a819b2.jpg",
+    "reward": 0.48564577102661133,
+    "dreamsim_distance": 0.5143542289733887
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/1e13fa8d.jpg",
+    "reward": 0.41979771852493286,
+    "dreamsim_distance": 0.5802022814750671
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/07978128.jpg",
+    "reward": 0.40433812141418457,
+    "dreamsim_distance": 0.5956618785858154
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/2730c8f1.jpg",
+    "reward": 0.7074308395385742,
+    "dreamsim_distance": 0.2925691604614258
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/77a67ddb.jpg",
+    "reward": 0.6999076008796692,
+    "dreamsim_distance": 0.3000923991203308
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/187e03ca.jpg",
+    "reward": 0.6507699489593506,
+    "dreamsim_distance": 0.3492300510406494
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/d75cbd1d.jpg",
+    "reward": 0.5364635586738586,
+    "dreamsim_distance": 0.46353644132614136
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/fa4a5a6f.jpg",
+    "reward": 0.4583752155303955,
+    "dreamsim_distance": 0.5416247844696045
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/97f568d4.jpg",
+    "reward": 0.5712954998016357,
+    "dreamsim_distance": 0.42870450019836426
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/fcb29d6d.jpg",
+    "reward": 0.5693231821060181,
+    "dreamsim_distance": 0.43067681789398193
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/f202722e.jpg",
+    "reward": 0.5678040385246277,
+    "dreamsim_distance": 0.4321959614753723
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/1b5c1e8f.jpg",
+    "reward": 0.5513851046562195,
+    "dreamsim_distance": 0.4486148953437805
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/f668fe03.jpg",
+    "reward": 0.5476289391517639,
+    "dreamsim_distance": 0.4523710608482361
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/29e2a3f8.jpg",
+    "reward": 0.44176071882247925,
+    "dreamsim_distance": 0.5582392811775208
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/f0725309.jpg",
+    "reward": 0.4652135372161865,
+    "dreamsim_distance": 0.5347864627838135
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/4276aa36.jpg",
+    "reward": 0.4469876289367676,
+    "dreamsim_distance": 0.5530123710632324
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/df88e9b9.jpg",
+    "reward": 0.4235621690750122,
+    "dreamsim_distance": 0.5764378309249878
+  },
+  {
+    "content_path": "./data/content/newyork.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/b1761e01.jpg",
+    "reward": 0.4187912940979004,
+    "dreamsim_distance": 0.5812087059020996
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/a8b3e61c.jpg",
+    "reward": 0.6063436269760132,
+    "dreamsim_distance": 0.3936563730239868
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/84c0952e.jpg",
+    "reward": 0.6229617595672607,
+    "dreamsim_distance": 0.37703824043273926
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/3ba74e68.jpg",
+    "reward": 0.6186444163322449,
+    "dreamsim_distance": 0.3813555836677551
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/13b93ace.jpg",
+    "reward": 0.5726121664047241,
+    "dreamsim_distance": 0.4273878335952759
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/antimonocromatismo.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/94da869e.jpg",
+    "reward": 0.5490676760673523,
+    "dreamsim_distance": 0.4509323239326477
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/8710afd5.jpg",
+    "reward": 0.4947429895401001,
+    "dreamsim_distance": 0.5052570104598999
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/836b526d.jpg",
+    "reward": 0.49792957305908203,
+    "dreamsim_distance": 0.502070426940918
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/2b41c4f3.jpg",
+    "reward": 0.4940062165260315,
+    "dreamsim_distance": 0.5059937834739685
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/4cc6473b.jpg",
+    "reward": 0.48072779178619385,
+    "dreamsim_distance": 0.5192722082138062
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/asheville.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/fa9461a9.jpg",
+    "reward": 0.47418999671936035,
+    "dreamsim_distance": 0.5258100032806396
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/397bae39.jpg",
+    "reward": 0.38284122943878174,
+    "dreamsim_distance": 0.6171587705612183
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/e71454c7.jpg",
+    "reward": 0.3813542127609253,
+    "dreamsim_distance": 0.6186457872390747
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/e601370f.jpg",
+    "reward": 0.28487688302993774,
+    "dreamsim_distance": 0.7151231169700623
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/0796f26e.jpg",
+    "reward": 0.2538893222808838,
+    "dreamsim_distance": 0.7461106777191162
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/brushstrokes.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/ef47691e.jpg",
+    "reward": 0.2652539610862732,
+    "dreamsim_distance": 0.7347460389137268
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/35f2f18f.jpg",
+    "reward": 0.5745232105255127,
+    "dreamsim_distance": 0.4254767894744873
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/41d5210f.jpg",
+    "reward": 0.5519369840621948,
+    "dreamsim_distance": 0.4480630159378052
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/0bc47895.jpg",
+    "reward": 0.5335953235626221,
+    "dreamsim_distance": 0.46640467643737793
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/0add98d7.jpg",
+    "reward": 0.4993433952331543,
+    "dreamsim_distance": 0.5006566047668457
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/contrast_of_forms.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/2b05b7b0.jpg",
+    "reward": 0.4845184087753296,
+    "dreamsim_distance": 0.5154815912246704
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/3fff8bab.jpg",
+    "reward": 0.4015575051307678,
+    "dreamsim_distance": 0.5984424948692322
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/269d3930.jpg",
+    "reward": 0.3597966432571411,
+    "dreamsim_distance": 0.6402033567428589
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/fd4283cc.jpg",
+    "reward": 0.31401997804641724,
+    "dreamsim_distance": 0.6859800219535828
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/303f0e81.jpg",
+    "reward": 0.2644660472869873,
+    "dreamsim_distance": 0.7355339527130127
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/en_campo_gris.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/91245aa9.jpg",
+    "reward": 0.27186715602874756,
+    "dreamsim_distance": 0.7281328439712524
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/92b91003.jpg",
+    "reward": 0.6131682395935059,
+    "dreamsim_distance": 0.38683176040649414
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/433c9c9a.jpg",
+    "reward": 0.6333320140838623,
+    "dreamsim_distance": 0.3666679859161377
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/b4f8e498.jpg",
+    "reward": 0.6399242281913757,
+    "dreamsim_distance": 0.36007577180862427
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/7b5b75d7.jpg",
+    "reward": 0.5618194341659546,
+    "dreamsim_distance": 0.4381805658340454
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/flower_of_life.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/4db45f3d.jpg",
+    "reward": 0.5246304869651794,
+    "dreamsim_distance": 0.47536951303482056
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/dd495bcb.jpg",
+    "reward": 0.34425246715545654,
+    "dreamsim_distance": 0.6557475328445435
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/1e66b6e9.jpg",
+    "reward": 0.2770531177520752,
+    "dreamsim_distance": 0.7229468822479248
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/18b71892.jpg",
+    "reward": 0.26256096363067627,
+    "dreamsim_distance": 0.7374390363693237
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/36c8b52d.jpg",
+    "reward": 0.2733756899833679,
+    "dreamsim_distance": 0.7266243100166321
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/goeritz.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/2392ef2d.jpg",
+    "reward": 0.26161736249923706,
+    "dreamsim_distance": 0.7383826375007629
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/1d588fb6.jpg",
+    "reward": 0.6642451286315918,
+    "dreamsim_distance": 0.3357548713684082
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/05a5d82e.jpg",
+    "reward": 0.6547066569328308,
+    "dreamsim_distance": 0.3452933430671692
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/c569eb8c.jpg",
+    "reward": 0.5772618055343628,
+    "dreamsim_distance": 0.4227381944656372
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/bbbd19a2.jpg",
+    "reward": 0.4046109914779663,
+    "dreamsim_distance": 0.5953890085220337
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/impronte_d_artista.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/99a33766.jpg",
+    "reward": 0.38050252199172974,
+    "dreamsim_distance": 0.6194974780082703
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/0ff9db35.jpg",
+    "reward": 0.46040916442871094,
+    "dreamsim_distance": 0.5395908355712891
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/87f2d77f.jpg",
+    "reward": 0.499125599861145,
+    "dreamsim_distance": 0.500874400138855
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/6d9da172.jpg",
+    "reward": 0.5235927104949951,
+    "dreamsim_distance": 0.4764072895050049
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/9e909688.jpg",
+    "reward": 0.5139166116714478,
+    "dreamsim_distance": 0.48608338832855225
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/la_muse.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/a19528e2.jpg",
+    "reward": 0.522098958492279,
+    "dreamsim_distance": 0.47790104150772095
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.3,
+    "stylized_path": "data/stylized/00ecb2cd.jpg",
+    "reward": 0.5420569181442261,
+    "dreamsim_distance": 0.4579430818557739
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.5,
+    "stylized_path": "data/stylized/bfaa63b2.jpg",
+    "reward": 0.5240350365638733,
+    "dreamsim_distance": 0.4759649634361267
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.7,
+    "stylized_path": "data/stylized/17d38f80.jpg",
+    "reward": 0.4960979223251343,
+    "dreamsim_distance": 0.5039020776748657
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 0.9,
+    "stylized_path": "data/stylized/c99da493.jpg",
+    "reward": 0.445526123046875,
+    "dreamsim_distance": 0.554473876953125
+  },
+  {
+    "content_path": "./data/content/sailboat.jpg",
+    "style_path": "./data/style/mondrian.jpg",
+    "alpha": 1.0,
+    "stylized_path": "data/stylized/5c3ffc06.jpg",
+    "reward": 0.42579054832458496,
+    "dreamsim_distance": 0.574209451675415
   }
 ]

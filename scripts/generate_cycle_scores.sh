@@ -4,7 +4,7 @@
 set -e
 
 # --- Configuration (Keep the original path for consistency with the user's setup) ---
-SCRIPT_DIR="/home/luo/Downloads/CV/final_project/adain_cycle_reward"
+SCRIPT_DIR="/home/bjia-25/workspace/papers/gen/adain_cycle_reward"
 
 # Change to the script's directory
 cd "$SCRIPT_DIR"
